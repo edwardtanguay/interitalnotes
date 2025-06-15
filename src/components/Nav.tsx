@@ -10,10 +10,13 @@ const menuItems = [
 		idCode: "welcome",
 		title: "Welcome",
 	},
+	//##MARKER:navEntryStoryPrompt.begin##
 	{
-		idCode: "info",
-		title: "Info",
+		idCode: "storyPrompt",
+		title: "Story Prompt",
 	},
+	//##MARKER:navEntryStoryPrompt.end##
+	//##MARKER:navEntryArea##
 	{
 		idCode: "about",
 		title: "About",

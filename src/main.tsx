@@ -3,11 +3,12 @@ import App from "./App.tsx";
 import { createBrowserRouter, Navigate, RouterProvider } from "react-router-dom";
 import "./index.scss";
 import { PageWelcome } from "./pages/PageWelcome.tsx";
-import { PageInfo } from "./pages/PageInfo.tsx";
 import { PageAbout } from "./pages/PageAbout.tsx";
 import { Page404 } from "./pages/Page404.tsx";
 import { StoreProvider } from 'easy-peasy';
 import { store } from './store/store.ts';
+import { PageStoryPrompt } from "./pages/PageStoryPrompt.tsx"; //##MARKER:importPageStoryPrompt##
+//##MARKER:importStatementArea##
 
 const router = createBrowserRouter([
 	{
@@ -20,13 +21,16 @@ const router = createBrowserRouter([
 				element: <PageWelcome />,
 			},
 			{
-				path: "info",
-				element: <PageInfo />,
-			},
-			{
 				path: "about",
 				element: <PageAbout />,
 			},
+			//##MARKER:routerEntryStoryPrompt.begin##
+			{
+				path: "storyPrompt",
+				element: <PageStoryPrompt />,
+			},
+			//##MARKER:routerEntryStoryPrompt.end##
+			//##MARKER:routerEntryArea##
 			{
 				path: "/",
 				element: <Navigate to="/welcome" replace />,

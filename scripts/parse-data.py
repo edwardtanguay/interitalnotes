@@ -2,42 +2,31 @@ import json
 
 from qtools import *
 
-class Flashcard:
-	def __init__(self, suuid, category, front, back):
-		self.suuid = suuid
-		self.category = category
-		self.front = front
-		self.back = back
+lines = qfil.get_lines_from_file("../../../../webs/italian/texts/itnotes.html")
+verbs = []
 
-lines = qfil.get_lines_from_file("../data/flashcards.txt")
+for line in lines:
+	if "//" in line:
+		verb = line
+		if ":" in verb:
+			verb = verb.split(":", 1)[0]
+			verb = verb.split("#", 1)[0]
+			verb = verb.split("//", 1)[0]
+			verb = verb.strip()
+			verbs.append(verb)
 
-flashcards = []
-for i in range(0, len(lines), 4):
-	if i + 3 > len(lines):
-		break
-	
-	category = lines[i].strip()
-	front = lines[i+1].strip()
-	back = lines[i+2].strip()
-	
-	flashcard = Flashcard(
-		suuid=qstr.generate_short_uuid(),
-		category=category,
-		front=front,
-		back=back
-	)
-	
-	flashcards.append(flashcard.__dict__)
+print(f"{len(verbs)} verbs")
+# for verb in verbs:
+# 	print(f"\"{verb}\"")
 
 try:
-	# Convert flashcards to JSON
-	json_data = json.dumps(flashcards, indent=4)
+	json_data = json.dumps(verbs, indent=4)
 	
 	# Write JSON data to file
-	with open("../parseddata/flashcards.json", 'w') as json_file:
+	with open("../parseddata/verbs.json", 'w') as json_file:
 		json_file.write(json_data)
 	
-	qcli.message("Successfully updated flashcards.json")
+	qcli.message("Successfully updated verbs.json")
 
 except Exception as err:
 	qcli.message(f"Error: {err}", "error")

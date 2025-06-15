@@ -1,30 +1,12 @@
-# datapod-for-react-python-json
+# Interactive Italian Notes
 
-This is a simple datapod template for a local site that displays data from a JSON file, which is created by a Python script that parses a text file.
+This site parses my notes on learning Italian to make them interactive for learning exercises.
 
-## Howto
+## Setup
 
-https://tanguay-eu.vercel.app/howtos/900
+- `npm i`
+- `npm run dev`
 
-## Video
+## Datapod Project
 
-https://www.youtube.com/watch?v=nbTz9xn9s_U
-
-## Create HTML documentation for qtools
-
-- cd scripts
-- `pdoc qtools --output-dir docs`
-- see scripts/docs/index.html
-
-## Compatibility
-
--   ✔️ tested on Windows
--   ✔️ tested on Ubuntu
-
-## Updates
-
--   2025-05-19 07:04:37 optimized import for qtools
-
-## More Datapod templates and sites
-
-https://datapod-tanguay-eu.vercel.app
+This is a spawning project for Datapod-for-Python-React, see: https://datapod-tanguay-eu.vercel.app

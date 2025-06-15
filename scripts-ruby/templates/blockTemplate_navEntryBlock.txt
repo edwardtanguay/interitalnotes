@@ -1,0 +1,4 @@
+{
+	idCode: "@@pageCamel",
+	title: "@@pageTitle",
+},

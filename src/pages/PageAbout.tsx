@@ -13,6 +13,16 @@ export const PageAbout = () => {
 						edwardtanguay/interitalnotes
 					</a>
 				</li>
+				<li>
+					Live:&nbsp;
+					<a
+						href="https://interitalnotes.vercel.app"
+						target="_blank"
+						className="underline"
+					>
+						interitalnotes.vercel.app
+					</a>
+				</li>
 			</ul>
 		</>
 	);

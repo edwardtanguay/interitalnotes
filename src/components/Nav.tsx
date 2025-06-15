@@ -12,7 +12,7 @@ const menuItems = [
 	},
 	//##MARKER:navEntryStoryPrompt.begin##
 	{
-		idCode: "storyPrompt",
+		idCode: "story-prompt",
 		title: "Story Prompt",
 	},
 	//##MARKER:navEntryStoryPrompt.end##

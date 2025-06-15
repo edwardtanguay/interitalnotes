@@ -26,7 +26,7 @@ const router = createBrowserRouter([
 			},
 			//##MARKER:routerEntryStoryPrompt.begin##
 			{
-				path: "storyPrompt",
+				path: "story-prompt",
 				element: <PageStoryPrompt />,
 			},
 			//##MARKER:routerEntryStoryPrompt.end##

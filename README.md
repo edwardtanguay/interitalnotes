@@ -2,10 +2,13 @@
 
 This site parses my notes on learning Italian to make them interactive for learning exercises.
 
+REPO: https://github.com/edwardtanguay/interitalnotes
+SITE: https://interitalnotes.vercel.app
+
 ## Setup
 
-- `npm i`
-- `npm run dev`
+-   `npm i`
+-   `npm run dev`
 
 ## Datapod Project
 

@@ -16,6 +16,12 @@ const menuItems = [
 		title: "Story Prompt",
 	},
 	//##MARKER:navEntryStoryPrompt.end##
+	//##MARKER:navEntryVerbList.begin##
+	{
+		idCode: "verbList",
+		title: "Verb List",
+	},
+	//##MARKER:navEntryVerbList.end##
 	//##MARKER:navEntryArea##
 	{
 		idCode: "about",

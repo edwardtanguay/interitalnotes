@@ -136,7 +136,7 @@ export const PageFlashcards = () => {
 															{example.italian}
 															<ul className="list-disc ml-3">
 																<li className="text-blue-950 opacity-30">
-																	{example.english}
+																{example.english}
 																</li>
 															</ul>
 														</li>

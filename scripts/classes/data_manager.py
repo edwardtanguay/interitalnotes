@@ -30,6 +30,9 @@ class DataManager:
 					})
 
 	def __get_examples(self, line: str) -> list[str]:
+		raw_example_text = self.__get_text_after_first_semicolon("nnn")
+		if raw_example_text == '':
+			return []
 		return [
 			{
 				"english": "the user can access the dashboard only after logging in",
@@ -40,6 +43,11 @@ class DataManager:
 				"italian": "qualcosa che accadrà a breve"
 			}
 		]
+	
+	def __get_text_after_first_semicolon(self, s: str) -> str:
+		parts = s.split(';', 1)
+		return parts[1].strip() if len(parts) > 1 else ''
+
 
 	def __get_conjugation_notes(self, line: str) -> str:
 		if ":" in line and "//" in line:

@@ -88,6 +88,27 @@ export const PageFlashcards = () => {
 													<p>PARE: -ai, -asti, -ò, -ammo, -aste, -arono</p>
 												</div>
 											)}
+											{verb.kind === 'ere' && (
+												<div className="section">
+													<p>PRES: -o, -i, -e, -iamo, -ete, -ono</p>
+													<p>IMPE: -evo, -evi, -eva, -evamo, -evate, -evano</p>
+													<p>PAPR: ho/sono -uto</p>
+													<p>FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno</p>
+													<p>COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero</p>
+													<p>PARE: -ei, -esti, -é, -emmo, -este, -erono</p>
+
+												</div>
+											)}
+											{verb.kind === 'ire' && (
+												<div className="section">
+													<p>PRES: -o, -i, -e, -iamo, -ite, -ono</p>
+													<p>IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano</p>
+													<p>PAPR: ho/sono -ito</p>
+													<p>FUTU: -irò, -irai, -irà, -iremo, -irete, -iranno</p>
+													<p>COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero</p>
+													<p>PARE: -ii, -isti, -ì, -immo, -iste, -irono</p>
+												</div>
+											)}
 										</div>
 									)}
 								</>

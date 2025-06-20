@@ -129,20 +129,22 @@ export const PageFlashcards = () => {
 											<div className="section">
 												<p>Full conjugation: <a href={verb.conjugationUrl} target="_blank" className="text-blue-800 underline">Reverso Conjugator</a></p>
 											</div>
-											<div className="section">
-												<ul className="list-disc ml-3">
-													{verb.examples.map((example, index) => (
-														<li key={index} className="mb-1 text-green-900 italic leading-[1.25]">
-															{example.italian}
-															<ul className="list-disc ml-3">
-																<li className="text-blue-950 opacity-30">
-																{example.english}
-																</li>
-															</ul>
-														</li>
-													))}
-												</ul>
-											</div>
+											{verb.examples.length > 0 && (
+												<div className="section">
+													<ul className="list-disc ml-3">
+														{verb.examples.map((example, index) => (
+															<li key={index} className="mb-1 text-green-900 italic leading-[1.25]">
+																{example.italian}
+																<ul className="list-disc ml-3">
+																	<li className="text-blue-950 opacity-30">
+																		{example.english}
+																	</li>
+																</ul>
+															</li>
+														))}
+													</ul>
+												</div>
+											)}
 										</div>
 									)}
 								</React.Fragment>

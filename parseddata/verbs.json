@@ -3,19 +3,46 @@
         "name": "assicurarsi",
         "meaning": "to make sure",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "concentrarsi",
         "meaning": "to concentrate",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "adattarsi",
         "meaning": "to adapt oneself",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "alzarsi",
@@ -57,7 +84,16 @@
         "name": "unirsi",
         "meaning": "to join",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "vestirsi",
@@ -75,7 +111,16 @@
         "name": "sentirsi",
         "meaning": "to feel emotionally",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "stare",
@@ -147,7 +192,16 @@
         "name": "guardare",
         "meaning": "to look, to watch",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "incollare",
@@ -171,7 +225,16 @@
         "name": "assicurare",
         "meaning": "to ensure, to assure, to make sure",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "passare",
@@ -189,7 +252,16 @@
         "name": "saltare",
         "meaning": "to skip, to jump",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "sperare",
@@ -201,7 +273,16 @@
         "name": "impostare",
         "meaning": "to set, to set up",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "reimpostare",
@@ -225,7 +306,16 @@
         "name": "apportare",
         "meaning": "to bring about, to cause",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "esportare",
@@ -243,7 +333,16 @@
         "name": "spostare",
         "meaning": "to move",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "aggiornare",
@@ -261,13 +360,31 @@
         "name": "salvare",
         "meaning": "to save",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "tornare",
         "meaning": "to return",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "ospitare",
@@ -291,13 +408,31 @@
         "name": "fermare",
         "meaning": "to stop, to halt, to end",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "provare",
         "meaning": "to try",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "continuare",
@@ -315,7 +450,16 @@
         "name": "interessare",
         "meaning": "to interest",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "eliminare",
@@ -387,7 +531,16 @@
         "name": "trattare",
         "meaning": "to treat, to handle, to cover",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "ritrattare",
@@ -429,7 +582,16 @@
         "name": "impegnare",
         "meaning": "to engage, to commit",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "sognare",
@@ -471,7 +633,16 @@
         "name": "afferrare",
         "meaning": "to grab, to grasp (an idea)",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "segnalare",
@@ -537,7 +708,16 @@
         "name": "impiegare",
         "meaning": "to take",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "cenare",
@@ -549,7 +729,16 @@
         "name": "spaventare",
         "meaning": "to frighten",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "affascinare",
@@ -939,7 +1128,16 @@
         "name": "rintracciare",
         "meaning": "to track down",
         "conjugation_notes": "*, /i, *, /iamo, *, *, *",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "cambiare",
@@ -1101,7 +1299,16 @@
         "name": "essere",
         "meaning": "to be",
         "conjugation_notes": "sono, sei, è, siamo, siete, sono, è stato",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "volere",
@@ -1143,19 +1350,46 @@
         "name": "accedere",
         "meaning": "to access, to log in",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "accadere",
         "meaning": "to happen, to occur",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "ricevere",
         "meaning": "to receive",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "cadere",
@@ -1179,7 +1413,16 @@
         "name": "premere",
         "meaning": "to press, to push, to hit",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "conoscere",
@@ -1269,7 +1512,16 @@
         "name": "nascere",
         "meaning": "to be born",
         "conjugation_notes": "*, *, *, *, *, *, ho nato",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "mettere",
@@ -1305,7 +1557,16 @@
         "name": "sorridere",
         "meaning": "to smile",
         "conjugation_notes": "*, *, *, *, *, *, ho sorriso",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "connettere",
@@ -1359,7 +1620,16 @@
         "name": "succedere",
         "meaning": "to happen",
         "conjugation_notes": "*, *, *, *, *, *, ho successo",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "coinvolgere",
@@ -1539,7 +1809,16 @@
         "name": "rivolgere",
         "meaning": "to address",
         "conjugation_notes": "*, *, *, *, *, *, ho rivolto",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "tenere",
@@ -1551,13 +1830,31 @@
         "name": "ritenere",
         "meaning": "to believe, to consider",
         "conjugation_notes": "-go, ritieni, ritiene, *, *, -gono, *",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "ottenere",
         "meaning": "to obtain",
         "conjugation_notes": "-go, ottieni, ottiene, *, *, -gono, *",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "mantenere",
@@ -1599,13 +1896,31 @@
         "name": "piacere",
         "meaning": "to like",
         "conjugation_notes": "-cio, *, *, -ciamo, *, -ciono, ho piaciuto",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "giacere",
         "meaning": "to lie (rest/recline)",
         "conjugation_notes": "-cio, *, *, -ciamo, *, -ciono, ho giaciuto",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "nuocere",
@@ -1653,7 +1968,16 @@
         "name": "porre",
         "meaning": "to put, to place",
         "conjugation_notes": "(pon-) -go, *, *, *, *, -gono, posto",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "proporre",
@@ -1755,7 +2079,16 @@
         "name": "riuscire",
         "meaning": "to be able to, to manage, to succeed",
         "conjugation_notes": "riesco, riesci, riesce, *, *, riescono, *",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "partire",
@@ -1779,19 +2112,46 @@
         "name": "eseguire",
         "meaning": "to execute, to run",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "consentire",
         "meaning": "to allow",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "sentire",
         "meaning": "to hear",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "divertire",
@@ -1809,7 +2169,16 @@
         "name": "coprire",
         "meaning": "to cover",
         "conjugation_notes": "*, *, *, *, *, *, coperto,",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "scoprire",
@@ -1929,7 +2298,16 @@
         "name": "colpire",
         "meaning": "to affect, to hit, to strike, to impress",
         "conjugation_notes": "-isco, -isci, -isce, *, *, -iscono, *",
-        "examples": []
+        "examples": [
+            {
+                "english": "the user can access the dashboard only after logging in",
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+            },
+            {
+                "english": "something that will happen soon",
+                "italian": "qualcosa che accadrà a breve"
+            }
+        ]
     },
     {
         "name": "costruire",

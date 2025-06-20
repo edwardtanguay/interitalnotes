@@ -30,7 +30,7 @@ class DataManager:
 					})
 
 	def __get_examples(self, line: str) -> list[str]:
-		raw_example_text = self.__get_text_after_first_semicolon("nnn")
+		raw_example_text = self.__get_text_after_first_semicolon(line)
 		if raw_example_text == '':
 			return []
 		return [

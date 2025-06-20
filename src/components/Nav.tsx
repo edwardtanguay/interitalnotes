@@ -22,6 +22,12 @@ const menuItems = [
 		title: "Flashcards",
 	},
 	//##MARKER:navEntryVerbList.end##
+	//##MARKER:navEntrySettings.begin##
+	{
+		idCode: "settings",
+		title: "Settings",
+	},
+	//##MARKER:navEntrySettings.end##
 	//##MARKER:navEntryArea##
 	{
 		idCode: "about",

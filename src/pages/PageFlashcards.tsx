@@ -1,5 +1,6 @@
 import { useState } from "react";
 import _rawVerbs from "../../parseddata/verbs.json";
+import { useLocalStorage } from "../hooks/useLocalStorage";
 
 type Verb = {
 	name: string;
@@ -8,7 +9,7 @@ type Verb = {
 	isLearned: boolean;
 };
 
-const initialVerbs: Verb[] = [];
+const _initialVerbs: Verb[] = [];
 for (const verb of _rawVerbs) {
 	const initialVerb: Verb = {
 		name: verb.name,
@@ -16,11 +17,11 @@ for (const verb of _rawVerbs) {
 		isOpen: false,
 		isLearned: false,
 	};
-	initialVerbs.push(initialVerb);
+	_initialVerbs.push(initialVerb);
 }
 
 export const PageFlashcards = () => {
-	const [verbs, setVerbs] = useState<Verb[]>(initialVerbs);
+	const [verbs, setVerbs] = useLocalStorage<Verb[]>('verbs', _initialVerbs);
 
 	const handleToggleOpen = (verb: Verb) => {
 		verb.isOpen = !verb.isOpen;

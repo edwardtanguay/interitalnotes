@@ -9,6 +9,7 @@ import { StoreProvider } from 'easy-peasy';
 import { store } from './store/store.ts';
 import { PageStoryPrompt } from "./pages/PageStoryPrompt.tsx"; //##MARKER:importPageStoryPrompt##
 import { PageFlashcards } from "./pages/PageFlashcards.tsx"; //##MARKER:importPageVerbList##
+import { PageSettings } from "./pages/PageSettings.tsx"; //##MARKER:importPageSettings##
 //##MARKER:importStatementArea##
 
 const router = createBrowserRouter([
@@ -37,6 +38,12 @@ const router = createBrowserRouter([
 				element: <PageFlashcards />,
 			},
 			//##MARKER:routerEntryVerbList.end##
+			//##MARKER:routerEntrySettings.begin##
+			{
+				path: "settings",
+				element: <PageSettings />,
+			},
+			//##MARKER:routerEntrySettings.end##
 			//##MARKER:routerEntryArea##
 			{
 				path: "/",

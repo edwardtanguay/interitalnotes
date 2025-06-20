@@ -1,212 +1,1334 @@
 [
-    "assicurarsi",
-    "concentrarsi",
-    "adattarsi",
-    "alzarsi",
-    "lavarsi",
-    "prepararsi",
-    "ribellarsi",
-    "mettersi",
-    "muoversi",
-    "stare",
-    "fare",
-    "andare",
-    "dare",
-    "guardare",
-    "saltare",
-    "impostare",
-    "reimpostare",
-    "ricordare",
-    "apportare",
-    "spostare",
-    "salvare",
-    "fermare",
-    "interessare",
-    "trattare",
-    "impegnare",
-    "afferrare",
-    "lasciare",
-    "tralasciare",
-    "rilasciare",
-    "tagliare",
-    "copiare",
-    "incoraggiare",
-    "pronunciare",
-    "baciare",
-    "cominciare",
-    "incominciare",
-    "assomigliare",
-    "ricambiare",
-    "sbadigliare",
-    "conciliare",
-    "assaggiare",
-    "passaggiare",
-    "mangiare",
-    "iniziare",
-    "ritagliare",
-    "risparmiare",
-    "rintracciare",
-    "cambiare",
-    "consigliare",
-    "uguagliare",
-    "accogliere",
-    "raccogliere",
-    "archiviare",
-    "inviare",
-    "avviare",
-    "riavviare",
-    "cercare",
-    "applicare",
-    "caricare",
-    "recaricare",
-    "scaricare",
-    "sovraccaricare",
-    "dimenticare",
-    "cliccare",
-    "pubblicare",
-    "modificare",
-    "specificare",
-    "spiegare",
-    "pagare",
-    "collegare",
-    "mancare",
-    "vagare",
-    "avere",
-    "essere",
-    "volere",
-    "dovere",
-    "potere",
-    "sapere",
-    "accedere",
-    "ricevere",
-    "conoscere",
-    "crescere",
-    "vedere",
-    "scrivere",
-    "rescrivere",
-    "descrivere",
-    "discutere",
-    "spingere",
-    "rendere",
-    "prendere",
-    "apprendere",
-    "scendere",
-    "ascendere",
-    "leggere",
-    "nascere",
-    "mettere",
-    "smettere",
-    "emettere",
-    "permettere",
-    "ridere",
-    "connettere",
-    "sorridere",
-    "chiudere",
-    "aggiungere",
-    "muovere",
-    "rimuovere",
-    "risolvere",
-    "rispondere",
-    "succedere",
-    "coinvolgere",
-    "raggiungere",
-    "dividere",
-    "esistere",
-    "correggere",
-    "rompere",
-    "vincere",
-    "decidere",
-    "chiedere",
-    "richiedere",
-    "sottintendere",
-    "intendere",
-    "pedere",
-    "correre",
-    "scorrere",
-    "trascorrere",
-    "riflettere",
-    "dipingere",
-    "protegere",
-    "avvolgere",
-    "racchiudere",
-    "piangere",
-    "esprimere",
-    "vivere",
-    "tingere",
-    "immergere",
-    "nascondere",
-    "dipendere",
-    "restringere",
-    "rivolgere",
-    "tenere",
-    "ritenere",
-    "ottenere",
-    "mantenere",
-    "contenere",
-    "sostenere",
-    "rimanere",
-    "scegliere",
-    "togliere",
-    "piacere",
-    "giacere",
-    "nuocere",
-    "tacere",
-    "bere",
-    "produrre",
-    "tradurre",
-    "condurre",
-    "ridurre",
-    "porre",
-    "proporre",
-    "supporre",
-    "comporre",
-    "deporre",
-    "imporre",
-    "esporre",
-    "riporre",
-    "disporre",
-    "preporre",
-    "interporre",
-    "sottoporre",
-    "contrapporre",
-    "venire",
-    "prevenire",
-    "dire",
-    "uscire",
-    "riuscire",
-    "eseguire",
-    "consentire",
-    "sentire",
-    "coprire",
-    "scoprire",
-    "offrire",
-    "aprire",
-    "capire",
-    "finire",
-    "definire",
-    "pulire",
-    "ripulire",
-    "fornire",
-    "inserire",
-    "restituire",
-    "sostituire",
-    "distribuire",
-    "ridistribuire",
-    "impedire",
-    "svanire",
-    "interagire",
-    "preferire",
-    "rapire",
-    "colpire",
-    "costruire",
-    "tossire",
-    "riferire",
-    "sbalordire",
-    "annuire",
-    "riempire",
-    "apparire",
-    "scomparire",
-    "morire",
-    "salire",
-    "avvenire"
+    {
+        "name": "assicurarsi",
+        "meaning": "to make sure"
+    },
+    {
+        "name": "concentrarsi",
+        "meaning": "to concentrate"
+    },
+    {
+        "name": "adattarsi",
+        "meaning": "to adapt oneself"
+    },
+    {
+        "name": "alzarsi",
+        "meaning": "to get up"
+    },
+    {
+        "name": "lavarsi",
+        "meaning": "to wash yourself"
+    },
+    {
+        "name": "prepararsi",
+        "meaning": "to get ready"
+    },
+    {
+        "name": "ribellarsi",
+        "meaning": "to revolt"
+    },
+    {
+        "name": "mettersi",
+        "meaning": "to put on clothes"
+    },
+    {
+        "name": "muoversi",
+        "meaning": "to move oneself"
+    },
+    {
+        "name": "unirsi",
+        "meaning": "to join"
+    },
+    {
+        "name": "vestirsi",
+        "meaning": "to get dressed"
+    },
+    {
+        "name": "divertirsi",
+        "meaning": "to have fun"
+    },
+    {
+        "name": "sentirsi",
+        "meaning": "to feel emotionally"
+    },
+    {
+        "name": "stare",
+        "meaning": "to stay"
+    },
+    {
+        "name": "fare",
+        "meaning": "to do, to make"
+    },
+    {
+        "name": "andare",
+        "meaning": "to go"
+    },
+    {
+        "name": "dare",
+        "meaning": "to give"
+    },
+    {
+        "name": "parlare",
+        "meaning": "to speak"
+    },
+    {
+        "name": "ascoltare",
+        "meaning": "to listen"
+    },
+    {
+        "name": "chiamare",
+        "meaning": "to call"
+    },
+    {
+        "name": "pensare",
+        "meaning": "to think"
+    },
+    {
+        "name": "creare",
+        "meaning": "to create"
+    },
+    {
+        "name": "mostrare",
+        "meaning": "to show"
+    },
+    {
+        "name": "aspettare",
+        "meaning": "to wait, to expect"
+    },
+    {
+        "name": "guardare",
+        "meaning": "to look, to watch"
+    },
+    {
+        "name": "incollare",
+        "meaning": "to paste"
+    },
+    {
+        "name": "tirare",
+        "meaning": "to pull"
+    },
+    {
+        "name": "controllare",
+        "meaning": "to check, to inspect"
+    },
+    {
+        "name": "assicurare",
+        "meaning": "to ensure, to assure, to make sure"
+    },
+    {
+        "name": "passare",
+        "meaning": "to pass"
+    },
+    {
+        "name": "girare",
+        "meaning": "to turn, to spin"
+    },
+    {
+        "name": "saltare",
+        "meaning": "to skip, to jump"
+    },
+    {
+        "name": "sperare",
+        "meaning": "to hope"
+    },
+    {
+        "name": "impostare",
+        "meaning": "to set, to set up"
+    },
+    {
+        "name": "reimpostare",
+        "meaning": "to reset"
+    },
+    {
+        "name": "ricordare",
+        "meaning": "to remember"
+    },
+    {
+        "name": "portare",
+        "meaning": "to bring"
+    },
+    {
+        "name": "apportare",
+        "meaning": "to bring about, to cause"
+    },
+    {
+        "name": "esportare",
+        "meaning": "to export"
+    },
+    {
+        "name": "importare",
+        "meaning": "to import"
+    },
+    {
+        "name": "spostare",
+        "meaning": "to move"
+    },
+    {
+        "name": "aggiornare",
+        "meaning": "to update"
+    },
+    {
+        "name": "analizzare",
+        "meaning": "to analyze"
+    },
+    {
+        "name": "salvare",
+        "meaning": "to save"
+    },
+    {
+        "name": "tornare",
+        "meaning": "to return"
+    },
+    {
+        "name": "ospitare",
+        "meaning": "to host"
+    },
+    {
+        "name": "arrivare",
+        "meaning": "to arrive"
+    },
+    {
+        "name": "evitare",
+        "meaning": "to prevent"
+    },
+    {
+        "name": "fermare",
+        "meaning": "to stop, to halt, to end"
+    },
+    {
+        "name": "provare",
+        "meaning": "to try"
+    },
+    {
+        "name": "continuare",
+        "meaning": "to continue"
+    },
+    {
+        "name": "testare",
+        "meaning": "to test"
+    },
+    {
+        "name": "interessare",
+        "meaning": "to interest"
+    },
+    {
+        "name": "eliminare",
+        "meaning": "to eliminate"
+    },
+    {
+        "name": "cancellare",
+        "meaning": "to cancel"
+    },
+    {
+        "name": "completare",
+        "meaning": "to complete"
+    },
+    {
+        "name": "guidare",
+        "meaning": "to drive, to guide, to lead"
+    },
+    {
+        "name": "utilizzare",
+        "meaning": "to utilize"
+    },
+    {
+        "name": "notare",
+        "meaning": "to note"
+    },
+    {
+        "name": "entrare",
+        "meaning": "to enter"
+    },
+    {
+        "name": "funzionare",
+        "meaning": "to function"
+    },
+    {
+        "name": "incorporare",
+        "meaning": "to incorporate"
+    },
+    {
+        "name": "envitare",
+        "meaning": "to avoid"
+    },
+    {
+        "name": "apprezzare",
+        "meaning": "to appreciate"
+    },
+    {
+        "name": "trattare",
+        "meaning": "to treat, to handle, to cover"
+    },
+    {
+        "name": "ritrattare",
+        "meaning": "to recant, to withdraw"
+    },
+    {
+        "name": "regolare",
+        "meaning": "to adjust"
+    },
+    {
+        "name": "esaminare",
+        "meaning": "to examine"
+    },
+    {
+        "name": "affermare",
+        "meaning": "to affirm"
+    },
+    {
+        "name": "diventare",
+        "meaning": "to become"
+    },
+    {
+        "name": "contattare",
+        "meaning": "to contact"
+    },
+    {
+        "name": "impegnare",
+        "meaning": "to engage, to commit"
+    },
+    {
+        "name": "sognare",
+        "meaning": "to dream"
+    },
+    {
+        "name": "sposare",
+        "meaning": "to marry"
+    },
+    {
+        "name": "presentare",
+        "meaning": "to present"
+    },
+    {
+        "name": "ballare",
+        "meaning": "to dance"
+    },
+    {
+        "name": "telefonare",
+        "meaning": "to telephone"
+    },
+    {
+        "name": "affittare",
+        "meaning": "to rent"
+    },
+    {
+        "name": "afferrare",
+        "meaning": "to grab, to grasp (an idea)"
+    },
+    {
+        "name": "segnalare",
+        "meaning": "to signal"
+    },
+    {
+        "name": "valutare",
+        "meaning": "to assess, evaluate"
+    },
+    {
+        "name": "orderare",
+        "meaning": "to order"
+    },
+    {
+        "name": "buttare",
+        "meaning": "to throw into, to dump, to throw away"
+    },
+    {
+        "name": "alzare",
+        "meaning": "to raise, to lift"
+    },
+    {
+        "name": "sembrare",
+        "meaning": "to seem"
+    },
+    {
+        "name": "lottare",
+        "meaning": "to fight, to struggle"
+    },
+    {
+        "name": "trascinare",
+        "meaning": "to drag"
+    },
+    {
+        "name": "incontrare",
+        "meaning": "to meet"
+    },
+    {
+        "name": "rientrare",
+        "meaning": "to return (home)"
+    },
+    {
+        "name": "impiegare",
+        "meaning": "to take"
+    },
+    {
+        "name": "cenare",
+        "meaning": "to dine"
+    },
+    {
+        "name": "spaventare",
+        "meaning": "to frighten"
+    },
+    {
+        "name": "affascinare",
+        "meaning": "to fascinate"
+    },
+    {
+        "name": "dichiarare",
+        "meaning": "to state (that they), to declare (a variable), to claim (to see aliens)"
+    },
+    {
+        "name": "pranzare",
+        "meaning": "to have lunch"
+    },
+    {
+        "name": "bussare",
+        "meaning": "to knock"
+    },
+    {
+        "name": "gironzolare",
+        "meaning": "to wander, hang out (a cat in a garden)"
+    },
+    {
+        "name": "addormentare",
+        "meaning": "to go to sleep"
+    },
+    {
+        "name": "allineare",
+        "meaning": "to align"
+    },
+    {
+        "name": "sbarazzare",
+        "meaning": "to get rid of"
+    },
+    {
+        "name": "lavare",
+        "meaning": "to wash"
+    },
+    {
+        "name": "lavorare",
+        "meaning": "to work"
+    },
+    {
+        "name": "cantare",
+        "meaning": "to sing"
+    },
+    {
+        "name": "desiderare",
+        "meaning": "to want, to wish"
+    },
+    {
+        "name": "liberare",
+        "meaning": "to free, to release"
+    },
+    {
+        "name": "visitare",
+        "meaning": "to visit"
+    },
+    {
+        "name": "dubitare",
+        "meaning": "to doubt"
+    },
+    {
+        "name": "abitare",
+        "meaning": "to live, to dwell"
+    },
+    {
+        "name": "nevicare",
+        "meaning": "to snow"
+    },
+    {
+        "name": "avvisare",
+        "meaning": "to warn, to alert"
+    },
+    {
+        "name": "riscontrare",
+        "meaning": "to encounter, to find"
+    },
+    {
+        "name": "spolverare",
+        "meaning": "to sprinkle dust"
+    },
+    {
+        "name": "rispolverare",
+        "meaning": "to dust off, to brush up on"
+    },
+    {
+        "name": "stampare",
+        "meaning": "to print, print out"
+    },
+    {
+        "name": "accettare",
+        "meaning": "to accept"
+    },
+    {
+        "name": "affrontare",
+        "meaning": "to address, to face, to confront"
+    },
+    {
+        "name": "affinare",
+        "meaning": "to refine, to hone (skills)"
+    },
+    {
+        "name": "abituare",
+        "meaning": "to get used to, to habituate"
+    },
+    {
+        "name": "manipolare",
+        "meaning": "to manipulate"
+    },
+    {
+        "name": "automatizzare",
+        "meaning": "to automate"
+    },
+    {
+        "name": "dimostrare",
+        "meaning": "to demonstrate"
+    },
+    {
+        "name": "trovare",
+        "meaning": "to find"
+    },
+    {
+        "name": "digitare",
+        "meaning": "to type"
+    },
+    {
+        "name": "usare",
+        "meaning": "to use"
+    },
+    {
+        "name": "fissare",
+        "meaning": "to fix, to set"
+    },
+    {
+        "name": "superare",
+        "meaning": "to overcome"
+    },
+    {
+        "name": "scartare",
+        "meaning": "to discard"
+    },
+    {
+        "name": "optare",
+        "meaning": "to opt"
+    },
+    {
+        "name": "costare",
+        "meaning": "to cost"
+    },
+    {
+        "name": "svuotare",
+        "meaning": "to empty, to clear"
+    },
+    {
+        "name": "addotare",
+        "meaning": "to adopt"
+    },
+    {
+        "name": "rilevare",
+        "meaning": "to detect"
+    },
+    {
+        "name": "segnare",
+        "meaning": "to mark, to record"
+    },
+    {
+        "name": "contrassegnare",
+        "meaning": "to mark, to flag"
+    },
+    {
+        "name": "riportare",
+        "meaning": "to restore, to bring back"
+    },
+    {
+        "name": "svelare",
+        "meaning": "to reveal, to unveil"
+    },
+    {
+        "name": "lasciare",
+        "meaning": "to leave, to let"
+    },
+    {
+        "name": "tralasciare",
+        "meaning": "to forget, to leave out"
+    },
+    {
+        "name": "rilasciare",
+        "meaning": "to release/issue"
+    },
+    {
+        "name": "tagliare",
+        "meaning": "to cut"
+    },
+    {
+        "name": "copiare",
+        "meaning": "to copy"
+    },
+    {
+        "name": "incoraggiare",
+        "meaning": "to encourage"
+    },
+    {
+        "name": "pronunciare",
+        "meaning": "to pronounce"
+    },
+    {
+        "name": "baciare",
+        "meaning": "to kiss"
+    },
+    {
+        "name": "cominciare",
+        "meaning": "to begin"
+    },
+    {
+        "name": "incominciare",
+        "meaning": "to start, to begin"
+    },
+    {
+        "name": "assomigliare",
+        "meaning": "to resemble"
+    },
+    {
+        "name": "ricambiare",
+        "meaning": "to reciprocate"
+    },
+    {
+        "name": "sbadigliare",
+        "meaning": "to yawn"
+    },
+    {
+        "name": "conciliare",
+        "meaning": "to combine, to reconcile"
+    },
+    {
+        "name": "assaggiare",
+        "meaning": "to taste"
+    },
+    {
+        "name": "passaggiare",
+        "meaning": "to walk, to stroll"
+    },
+    {
+        "name": "mangiare",
+        "meaning": "to eat"
+    },
+    {
+        "name": "iniziare",
+        "meaning": "to initialize, to start"
+    },
+    {
+        "name": "ritagliare",
+        "meaning": "to cut out"
+    },
+    {
+        "name": "risparmiare",
+        "meaning": "to save, to conserve (electricity, tempo, headaches)"
+    },
+    {
+        "name": "rintracciare",
+        "meaning": "to track down"
+    },
+    {
+        "name": "cambiare",
+        "meaning": "to change"
+    },
+    {
+        "name": "consigliare",
+        "meaning": "to recommend"
+    },
+    {
+        "name": "uguagliare",
+        "meaning": "to equal"
+    },
+    {
+        "name": "accogliere",
+        "meaning": "to welcome"
+    },
+    {
+        "name": "raccogliere",
+        "meaning": "to gather, to collect"
+    },
+    {
+        "name": "archiviare",
+        "meaning": "to store"
+    },
+    {
+        "name": "inviare",
+        "meaning": "to send"
+    },
+    {
+        "name": "avviare",
+        "meaning": "to start, to boot"
+    },
+    {
+        "name": "riavviare",
+        "meaning": "to restart, to reboot"
+    },
+    {
+        "name": "cercare",
+        "meaning": "to search"
+    },
+    {
+        "name": "applicare",
+        "meaning": "to apply"
+    },
+    {
+        "name": "caricare",
+        "meaning": "to load, to upload"
+    },
+    {
+        "name": "recaricare",
+        "meaning": "to reload, to recharge"
+    },
+    {
+        "name": "scaricare",
+        "meaning": "to download"
+    },
+    {
+        "name": "sovraccaricare",
+        "meaning": "to overload"
+    },
+    {
+        "name": "dimenticare",
+        "meaning": "to forget"
+    },
+    {
+        "name": "cliccare",
+        "meaning": "to click"
+    },
+    {
+        "name": "pubblicare",
+        "meaning": "to publish"
+    },
+    {
+        "name": "modificare",
+        "meaning": "to modify"
+    },
+    {
+        "name": "specificare",
+        "meaning": "to specify"
+    },
+    {
+        "name": "spiegare",
+        "meaning": "to explain"
+    },
+    {
+        "name": "pagare",
+        "meaning": "to pay"
+    },
+    {
+        "name": "collegare",
+        "meaning": "to connect, to link"
+    },
+    {
+        "name": "mancare",
+        "meaning": "be missing, to lack"
+    },
+    {
+        "name": "vagare",
+        "meaning": "to wander, to roam"
+    },
+    {
+        "name": "avere",
+        "meaning": "to have"
+    },
+    {
+        "name": "essere",
+        "meaning": "to be"
+    },
+    {
+        "name": "volere",
+        "meaning": "to want"
+    },
+    {
+        "name": "dovere",
+        "meaning": "to have to (must)"
+    },
+    {
+        "name": "potere",
+        "meaning": "to be able to (can)"
+    },
+    {
+        "name": "sapere",
+        "meaning": "to know"
+    },
+    {
+        "name": "credere",
+        "meaning": "to believe"
+    },
+    {
+        "name": "vendere",
+        "meaning": "to sell"
+    },
+    {
+        "name": "accedere",
+        "meaning": "to access, to log in"
+    },
+    {
+        "name": "accadere",
+        "meaning": "to happen, to occur"
+    },
+    {
+        "name": "ricevere",
+        "meaning": "to receive"
+    },
+    {
+        "name": "cadere",
+        "meaning": "to fall"
+    },
+    {
+        "name": "scadere",
+        "meaning": "to expire"
+    },
+    {
+        "name": "piovere",
+        "meaning": "to rain"
+    },
+    {
+        "name": "premere",
+        "meaning": "to press, to push, to hit"
+    },
+    {
+        "name": "conoscere",
+        "meaning": "to meet"
+    },
+    {
+        "name": "crescere",
+        "meaning": "to grow, to raise"
+    },
+    {
+        "name": "vedere",
+        "meaning": "to sell"
+    },
+    {
+        "name": "scrivere",
+        "meaning": "to write"
+    },
+    {
+        "name": "rescrivere",
+        "meaning": "to rewrite"
+    },
+    {
+        "name": "descrivere",
+        "meaning": "to describe"
+    },
+    {
+        "name": "discutere",
+        "meaning": "to discuss"
+    },
+    {
+        "name": "spingere",
+        "meaning": "to push"
+    },
+    {
+        "name": "rendere",
+        "meaning": "to make, to render"
+    },
+    {
+        "name": "prendere",
+        "meaning": "to take"
+    },
+    {
+        "name": "apprendere",
+        "meaning": "to learn, to apprehend"
+    },
+    {
+        "name": "scendere",
+        "meaning": "to move down"
+    },
+    {
+        "name": "ascendere",
+        "meaning": "to move up"
+    },
+    {
+        "name": "leggere",
+        "meaning": "to read"
+    },
+    {
+        "name": "nascere",
+        "meaning": "to be born"
+    },
+    {
+        "name": "mettere",
+        "meaning": "to put, to get, to place"
+    },
+    {
+        "name": "smettere",
+        "meaning": "to stop, to cease"
+    },
+    {
+        "name": "emettere",
+        "meaning": "to issue, to emit"
+    },
+    {
+        "name": "permettere",
+        "meaning": "to permit"
+    },
+    {
+        "name": "ridere",
+        "meaning": "to laugh"
+    },
+    {
+        "name": "sorridere",
+        "meaning": "to smile"
+    },
+    {
+        "name": "connettere",
+        "meaning": "to connect"
+    },
+    {
+        "name": "chiudere",
+        "meaning": "to close"
+    },
+    {
+        "name": "aggiungere",
+        "meaning": "to add"
+    },
+    {
+        "name": "muovere",
+        "meaning": "to move"
+    },
+    {
+        "name": "rimuovere",
+        "meaning": "to remove"
+    },
+    {
+        "name": "risolvere",
+        "meaning": "to solve, to resolve"
+    },
+    {
+        "name": "rispondere",
+        "meaning": "to respond"
+    },
+    {
+        "name": "corrispondere",
+        "meaning": "to correspond"
+    },
+    {
+        "name": "succedere",
+        "meaning": "to happen"
+    },
+    {
+        "name": "coinvolgere",
+        "meaning": "to involve"
+    },
+    {
+        "name": "raggiungere",
+        "meaning": "to reach, to achieve"
+    },
+    {
+        "name": "dividere",
+        "meaning": "to divide"
+    },
+    {
+        "name": "esistere",
+        "meaning": "to exist"
+    },
+    {
+        "name": "correggere",
+        "meaning": "to correct"
+    },
+    {
+        "name": "rompere",
+        "meaning": "to break"
+    },
+    {
+        "name": "vincere",
+        "meaning": "to win"
+    },
+    {
+        "name": "decidere",
+        "meaning": "to decide"
+    },
+    {
+        "name": "chiedere",
+        "meaning": "to ask"
+    },
+    {
+        "name": "richiedere",
+        "meaning": "to require, to request, to take (time)"
+    },
+    {
+        "name": "sottintendere",
+        "meaning": "to imply"
+    },
+    {
+        "name": "intendere",
+        "meaning": "to suggest"
+    },
+    {
+        "name": "pedere",
+        "meaning": "to lose"
+    },
+    {
+        "name": "correre",
+        "meaning": "to run"
+    },
+    {
+        "name": "scorrere",
+        "meaning": "to scroll"
+    },
+    {
+        "name": "trascorrere",
+        "meaning": "to spend, to enjoy"
+    },
+    {
+        "name": "riflettere",
+        "meaning": "to reflect"
+    },
+    {
+        "name": "dipingere",
+        "meaning": "to paint"
+    },
+    {
+        "name": "protegere",
+        "meaning": "to protect"
+    },
+    {
+        "name": "avvolgere",
+        "meaning": "to wrap"
+    },
+    {
+        "name": "racchiudere",
+        "meaning": "to enclose"
+    },
+    {
+        "name": "piangere",
+        "meaning": "to cry"
+    },
+    {
+        "name": "esprimere",
+        "meaning": "to express, voice"
+    },
+    {
+        "name": "vivere",
+        "meaning": "to live, to experience"
+    },
+    {
+        "name": "tingere",
+        "meaning": "to dye, to stain"
+    },
+    {
+        "name": "immergere",
+        "meaning": "to immerse"
+    },
+    {
+        "name": "nascondere",
+        "meaning": "to hide"
+    },
+    {
+        "name": "dipendere",
+        "meaning": "to depend"
+    },
+    {
+        "name": "restringere",
+        "meaning": "to restrict, to narrow"
+    },
+    {
+        "name": "rivolgere",
+        "meaning": "to address"
+    },
+    {
+        "name": "tenere",
+        "meaning": "to take, to keep, to hold"
+    },
+    {
+        "name": "ritenere",
+        "meaning": "to believe, to consider"
+    },
+    {
+        "name": "ottenere",
+        "meaning": "to obtain"
+    },
+    {
+        "name": "mantenere",
+        "meaning": "to maintain"
+    },
+    {
+        "name": "contenere",
+        "meaning": "to contain"
+    },
+    {
+        "name": "sostenere",
+        "meaning": "to support, to argue"
+    },
+    {
+        "name": "rimanere",
+        "meaning": "to remain"
+    },
+    {
+        "name": "scegliere",
+        "meaning": "to choose"
+    },
+    {
+        "name": "togliere",
+        "meaning": "to remove"
+    },
+    {
+        "name": "piacere",
+        "meaning": "to like"
+    },
+    {
+        "name": "giacere",
+        "meaning": "to lie (rest/recline)"
+    },
+    {
+        "name": "nuocere",
+        "meaning": "to harm"
+    },
+    {
+        "name": "tacere",
+        "meaning": "to be silent"
+    },
+    {
+        "name": "bere",
+        "meaning": "to drink"
+    },
+    {
+        "name": "produrre",
+        "meaning": "to produce"
+    },
+    {
+        "name": "tradurre",
+        "meaning": "to translate"
+    },
+    {
+        "name": "condurre",
+        "meaning": "to conduct, to lead, to carry out"
+    },
+    {
+        "name": "ridurre",
+        "meaning": "to reduce, to minimize"
+    },
+    {
+        "name": "porre",
+        "meaning": "to put, to place"
+    },
+    {
+        "name": "proporre",
+        "meaning": "to suggest"
+    },
+    {
+        "name": "supporre",
+        "meaning": "to suppose"
+    },
+    {
+        "name": "comporre",
+        "meaning": "to compose"
+    },
+    {
+        "name": "deporre",
+        "meaning": "to depose"
+    },
+    {
+        "name": "imporre",
+        "meaning": "to impose"
+    },
+    {
+        "name": "esporre",
+        "meaning": "to expose"
+    },
+    {
+        "name": "riporre",
+        "meaning": "to put back"
+    },
+    {
+        "name": "disporre",
+        "meaning": "to arrange"
+    },
+    {
+        "name": "preporre",
+        "meaning": "to put before"
+    },
+    {
+        "name": "interporre",
+        "meaning": "to interpose"
+    },
+    {
+        "name": "sottoporre",
+        "meaning": "to subject"
+    },
+    {
+        "name": "contrapporre",
+        "meaning": "to contrast"
+    },
+    {
+        "name": "venire",
+        "meaning": "to come"
+    },
+    {
+        "name": "prevenire",
+        "meaning": "to prevent, to avoid"
+    },
+    {
+        "name": "dire",
+        "meaning": "to say"
+    },
+    {
+        "name": "uscire",
+        "meaning": "to go out"
+    },
+    {
+        "name": "riuscire",
+        "meaning": "to be able to, to manage, to succeed"
+    },
+    {
+        "name": "partire",
+        "meaning": "to start"
+    },
+    {
+        "name": "dormire",
+        "meaning": "to sleep"
+    },
+    {
+        "name": "convertire",
+        "meaning": "to convert"
+    },
+    {
+        "name": "eseguire",
+        "meaning": "to execute, to run"
+    },
+    {
+        "name": "consentire",
+        "meaning": "to allow"
+    },
+    {
+        "name": "sentire",
+        "meaning": "to hear"
+    },
+    {
+        "name": "divertire",
+        "meaning": "to entertain, to amuse"
+    },
+    {
+        "name": "fuggire",
+        "meaning": "to run away, to escape, to flee,"
+    },
+    {
+        "name": "coprire",
+        "meaning": "to cover"
+    },
+    {
+        "name": "scoprire",
+        "meaning": "to discover, to find out"
+    },
+    {
+        "name": "offrire",
+        "meaning": "to offer"
+    },
+    {
+        "name": "aprire",
+        "meaning": "to open"
+    },
+    {
+        "name": "capire",
+        "meaning": "to undertand"
+    },
+    {
+        "name": "finire",
+        "meaning": "to finish"
+    },
+    {
+        "name": "definire",
+        "meaning": "to define"
+    },
+    {
+        "name": "pulire",
+        "meaning": "to clean"
+    },
+    {
+        "name": "ripulire",
+        "meaning": "to clean up"
+    },
+    {
+        "name": "fornire",
+        "meaning": "to provide"
+    },
+    {
+        "name": "inserire",
+        "meaning": "to insert"
+    },
+    {
+        "name": "restituire",
+        "meaning": "to return (a value)"
+    },
+    {
+        "name": "sostituire",
+        "meaning": "to replace"
+    },
+    {
+        "name": "distribuire",
+        "meaning": "to deploy"
+    },
+    {
+        "name": "ridistribuire",
+        "meaning": "to redeploy"
+    },
+    {
+        "name": "impedire",
+        "meaning": "to prevent"
+    },
+    {
+        "name": "svanire",
+        "meaning": "to vanish"
+    },
+    {
+        "name": "interagire",
+        "meaning": "to interact"
+    },
+    {
+        "name": "preferire",
+        "meaning": "to prefer"
+    },
+    {
+        "name": "rapire",
+        "meaning": "to abduct, to kidnap"
+    },
+    {
+        "name": "colpire",
+        "meaning": "to affect, to hit, to strike"
+    },
+    {
+        "name": "costruire",
+        "meaning": "to build, to construct"
+    },
+    {
+        "name": "tossire",
+        "meaning": "to cough"
+    },
+    {
+        "name": "riferire",
+        "meaning": "to refer, to report"
+    },
+    {
+        "name": "sbalordire",
+        "meaning": "to amaze"
+    },
+    {
+        "name": "annuire",
+        "meaning": "to nod"
+    },
+    {
+        "name": "riempire",
+        "meaning": "to fill"
+    },
+    {
+        "name": "apparire",
+        "meaning": "to appear"
+    },
+    {
+        "name": "scomparire",
+        "meaning": "to disappear"
+    },
+    {
+        "name": "morire",
+        "meaning": "to die"
+    },
+    {
+        "name": "salire",
+        "meaning": "to climb, (to get on a train, to get in a car)"
+    },
+    {
+        "name": "avvenire",
+        "meaning": "to take place, to happen"
+    }
 ]

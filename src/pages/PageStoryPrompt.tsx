@@ -3,7 +3,8 @@ import * as tools from "../tools";
 
 export const PageStoryPrompt = () => {
 	const numberOfVerbs = 50;
-	const verbs = tools.getRandomSubset(_verbs, numberOfVerbs);
+	const verbNames = _verbs.map((verb) => verb.name);
+	const verbs = tools.getRandomSubset(verbNames, numberOfVerbs);
 	const verbList = verbs.join(", ");
 	const prompt =
 		"Create a title (first letter uppercase, the rest lowercase) and then a story about any topic, in B1 Italian, with 550 words varying the tenses past, present, conditional and future, using all of the following 50 words: " +

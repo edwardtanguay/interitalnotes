@@ -18,8 +18,8 @@ const menuItems = [
 	//##MARKER:navEntryStoryPrompt.end##
 	//##MARKER:navEntryVerbList.begin##
 	{
-		idCode: "verbList",
-		title: "Verb List",
+		idCode: "flashcards",
+		title: "Flashcards",
 	},
 	//##MARKER:navEntryVerbList.end##
 	//##MARKER:navEntryArea##

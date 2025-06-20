@@ -8,7 +8,7 @@ import { Page404 } from "./pages/Page404.tsx";
 import { StoreProvider } from 'easy-peasy';
 import { store } from './store/store.ts';
 import { PageStoryPrompt } from "./pages/PageStoryPrompt.tsx"; //##MARKER:importPageStoryPrompt##
-import { PageVerbList } from "./pages/PageVerbList.tsx"; //##MARKER:importPageVerbList##
+import { PageFlashcards } from "./pages/PageFlashcards.tsx"; //##MARKER:importPageVerbList##
 //##MARKER:importStatementArea##
 
 const router = createBrowserRouter([
@@ -33,8 +33,8 @@ const router = createBrowserRouter([
 			//##MARKER:routerEntryStoryPrompt.end##
 			//##MARKER:routerEntryVerbList.begin##
 			{
-				path: "verbList",
-				element: <PageVerbList />,
+				path: "flashcards",
+				element: <PageFlashcards />,
 			},
 			//##MARKER:routerEntryVerbList.end##
 			//##MARKER:routerEntryArea##

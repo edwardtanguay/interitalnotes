@@ -17,7 +17,6 @@ class DataManager:
 	def __build_verbs(self):
 		for line in self.lines:
 			if "//" in line:
-				meaning = self.get_meaning(line)
 				verb = line
 				verb = verb.split(":", 1)[0]
 				verb = verb.split("#", 1)[0]
@@ -25,8 +24,42 @@ class DataManager:
 				verb = verb.strip()
 				self.verbs.append({
 					"name": verb,
-					"meaning": meaning
+					"meaning": self.__get_meaning(line),
+					"conjugation_notes": self.__get_conjugation_notes(line),
+					"examples": self.__get_examples(line)
 					})
+
+	def __get_examples(self, line: str) -> list[str]:
+		raw_example_text = self.__get_text_after_first_semicolon(line)
+		if raw_example_text == '':
+			return []
+		return self.__parse_line_to_dicts(raw_example_text)
+		# return self.__parse_line_to_dicts("1iii; 1eee; 2iii; 2eee")
+
+	def __parse_line_to_dicts(self, line: str) -> list[dict]:
+		parts = [p.strip() for p in line.split(';')]
+		if len(parts) % 2 != 0:
+			raise ValueError("Uneven number of parts in example line: " + line)
+
+		result = []
+		for i in range(0, len(parts), 2):
+			italian = parts[i]
+			english = parts[i + 1]
+			result.append({"italian": italian, "english": english})
+		return result
+
+	
+	def __get_text_after_first_semicolon(self, s: str) -> str:
+		parts = s.split(';', 1)
+		return parts[1].strip() if len(parts) > 1 else ''
+
+
+	def __get_conjugation_notes(self, line: str) -> str:
+		if ":" in line and "//" in line:
+			start = line.find(":") + 1
+			end = line.find("//")
+			return line[start:end].strip()
+		return ""
 
 	# examples
 	# adattarsi: // to adapt oneself; il software si adatta; the software automatically adapts
@@ -38,7 +71,7 @@ class DataManager:
 	# incorporare //
 	# envitare# // avoid
 	# apprezzare // appreciate
-	def get_meaning(self, line: str) -> str:
+	def __get_meaning(self, line: str) -> str:
 
 		# Split the line at the first occurrence of '//' to extract the comment
 		comment = line.split('//', 1)[1].strip()

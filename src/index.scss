@@ -28,3 +28,14 @@ body {
 		opacity: 1;
 	}
 }
+
+.pageFlashcards {
+	.verbFlashcard {
+		.front {
+			background-color: goldenrod;
+		}
+		.back {
+			background-color: rgb(241, 217, 154);
+		}
+	}
+}

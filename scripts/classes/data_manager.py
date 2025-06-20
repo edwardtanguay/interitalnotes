@@ -33,16 +33,21 @@ class DataManager:
 		raw_example_text = self.__get_text_after_first_semicolon(line)
 		if raw_example_text == '':
 			return []
-		return [
-			{
-				"english": "the user can access the dashboard only after logging in",
-				"italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
-			},
-			{
-				"english": "something that will happen soon",
-				"italian": "qualcosa che accadrà a breve"
-			}
-		]
+		# return self.__parse_line_to_dicts(raw_example_text)
+		return self.__parse_line_to_dicts("1iii; 1eee; 2iii; 2eee")
+
+	def __parse_line_to_dicts(self, line: str) -> list[dict]:
+		parts = [p.strip() for p in line.split(';')]
+		if len(parts) % 2 != 0:
+			print("Uneven number of segments; expected pairs of Italian and English phrases.")
+
+		result = []
+		for i in range(0, len(parts), 2):
+			italian = parts[i]
+			english = parts[i + 1]
+			result.append({"italian": italian, "english": english})
+		return result
+
 	
 	def __get_text_after_first_semicolon(self, s: str) -> str:
 		parts = s.split(';', 1)

@@ -29,7 +29,11 @@ class DataManager:
 					})
 
 	def __get_conjugation_notes(self, line: str) -> str:
-		return "conjugation notes not implemented"
+		if ":" in line and "//" in line:
+			start = line.find(":") + 1
+			end = line.find("//")
+			return line[start:end].strip()
+		return ""
 
 	# examples
 	# adattarsi: // to adapt oneself; il software si adatta; the software automatically adapts

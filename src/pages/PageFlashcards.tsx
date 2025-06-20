@@ -82,9 +82,11 @@ export const PageFlashcards = () => {
 												</div>
 												<button className="px-1 uppercase bg-green-900 text-sm text-white rounded hover:bg-green-800" onClick={() => handleToggleLearned(verb)}>learned</button>
 											</div>
-											<div className="section">
-												<p>{verb.conjugationNotes}</p>
-											</div>
+											{verb.conjugationNotes.trim() !== "" && (
+												<div className="section">
+													<p>{verb.conjugationNotes}</p>
+												</div>
+											)}
 											{verb.kind === 'are' && (
 												<div className="section">
 													<p>PRES: -o, -i, -a, -iamo, -ate, -ano</p>

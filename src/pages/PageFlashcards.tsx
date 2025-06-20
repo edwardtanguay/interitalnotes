@@ -1,4 +1,3 @@
-import { useState } from "react";
 import _rawVerbs from "../../parseddata/verbs.json";
 import { useLocalStorage } from "../hooks/useLocalStorage";
 

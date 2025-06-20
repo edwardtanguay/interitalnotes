@@ -61,7 +61,7 @@ export const PageFlashcards = () => {
 										<div className="font-semibold">
 											{verb.name}
 										</div>
-										<button className="px-1 bg-blue-600 text-sm text-white rounded hover:bg-blue-700" onClick={() => handleToggleLearned(verb)}>learned</button>
+										<button className="px-1 bg-green-900 text-sm text-white rounded hover:bg-green-800" onClick={() => handleToggleLearned(verb)}>learned</button>
 									</div>
 								)}
 							</>

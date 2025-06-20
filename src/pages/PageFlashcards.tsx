@@ -11,6 +11,7 @@ type Verb = {
 	timesTaken: number;
 	kind: verbKind;
 	conjugationUrl: string;
+	conjugationNotes: string
 };
 
 const getVerbKind = (verbName: string): verbKind => {
@@ -24,15 +25,16 @@ const getVerbKind = (verbName: string): verbKind => {
 }
 
 const _initialVerbs: Verb[] = [];
-for (const verb of _rawVerbs) {
+for (const _rawVerb of _rawVerbs) {
 	const initialVerb: Verb = {
-		name: verb.name,
-		meaning: verb.meaning,
+		name: _rawVerb.name,
+		meaning: _rawVerb.meaning,
 		isOpen: false,
 		isLearned: false,
 		timesTaken: 0,
-		kind: getVerbKind(verb.name),
-		conjugationUrl: `https://conjugator.reverso.net/conjugation-italian-verb-${verb.name}.html`,
+		kind: getVerbKind(_rawVerb.name),
+		conjugationUrl: `https://conjugator.reverso.net/conjugation-italian-verb-${_rawVerb.name}.html`,
+		conjugationNotes: _rawVerb.conjugation_notes || ''
 	};
 	_initialVerbs.push(initialVerb);
 }
@@ -80,6 +82,9 @@ export const PageFlashcards = () => {
 												</div>
 												<button className="px-1 uppercase bg-green-900 text-sm text-white rounded hover:bg-green-800" onClick={() => handleToggleLearned(verb)}>learned</button>
 											</div>
+											<div className="section">
+												<p>{verb.conjugationNotes}</p>
+											</div>
 											{verb.kind === 'are' && (
 												<div className="section">
 													<p>PRES: -o, -i, -a, -iamo, -ate, -ano</p>
@@ -121,7 +126,7 @@ export const PageFlashcards = () => {
 						)}
 					</>
 				))}
-			</div>
+			</div >
 		</div>
 	)
 }

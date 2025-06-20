@@ -17,7 +17,6 @@ class DataManager:
 	def __build_verbs(self):
 		for line in self.lines:
 			if "//" in line:
-				meaning = self.get_meaning(line)
 				verb = line
 				verb = verb.split(":", 1)[0]
 				verb = verb.split("#", 1)[0]
@@ -25,8 +24,12 @@ class DataManager:
 				verb = verb.strip()
 				self.verbs.append({
 					"name": verb,
-					"meaning": meaning
+					"meaning": self.__get_meaning(line),
+					"conjugation_notes": self.__get_conjugation_notes(line)
 					})
+
+	def __get_conjugation_notes(self, line: str) -> str:
+		return "conjugation notes not implemented"
 
 	# examples
 	# adattarsi: // to adapt oneself; il software si adatta; the software automatically adapts
@@ -38,7 +41,7 @@ class DataManager:
 	# incorporare //
 	# envitare# // avoid
 	# apprezzare // appreciate
-	def get_meaning(self, line: str) -> str:
+	def __get_meaning(self, line: str) -> str:
 
 		# Split the line at the first occurrence of '//' to extract the comment
 		comment = line.split('//', 1)[1].strip()

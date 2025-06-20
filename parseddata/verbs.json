@@ -1,1334 +1,1667 @@
 [
     {
         "name": "assicurarsi",
-        "meaning": "to make sure"
+        "meaning": "to make sure",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "concentrarsi",
-        "meaning": "to concentrate"
+        "meaning": "to concentrate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "adattarsi",
-        "meaning": "to adapt oneself"
+        "meaning": "to adapt oneself",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "alzarsi",
-        "meaning": "to get up"
+        "meaning": "to get up",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "lavarsi",
-        "meaning": "to wash yourself"
+        "meaning": "to wash yourself",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "prepararsi",
-        "meaning": "to get ready"
+        "meaning": "to get ready",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ribellarsi",
-        "meaning": "to revolt"
+        "meaning": "to revolt",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "mettersi",
-        "meaning": "to put on clothes"
+        "meaning": "to put on clothes",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "muoversi",
-        "meaning": "to move oneself"
+        "meaning": "to move oneself",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "unirsi",
-        "meaning": "to join"
+        "meaning": "to join",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "vestirsi",
-        "meaning": "to get dressed"
+        "meaning": "to get dressed",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "divertirsi",
-        "meaning": "to have fun"
+        "meaning": "to have fun",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sentirsi",
-        "meaning": "to feel emotionally"
+        "meaning": "to feel emotionally",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "stare",
-        "meaning": "to stay"
+        "meaning": "to stay",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "fare",
-        "meaning": "to do, to make"
+        "meaning": "to do, to make",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "andare",
-        "meaning": "to go"
+        "meaning": "to go",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dare",
-        "meaning": "to give"
+        "meaning": "to give",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "parlare",
-        "meaning": "to speak"
+        "meaning": "to speak",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ascoltare",
-        "meaning": "to listen"
+        "meaning": "to listen",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "chiamare",
-        "meaning": "to call"
+        "meaning": "to call",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "pensare",
-        "meaning": "to think"
+        "meaning": "to think",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "creare",
-        "meaning": "to create"
+        "meaning": "to create",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "mostrare",
-        "meaning": "to show"
+        "meaning": "to show",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "aspettare",
-        "meaning": "to wait, to expect"
+        "meaning": "to wait, to expect",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "guardare",
-        "meaning": "to look, to watch"
+        "meaning": "to look, to watch",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "incollare",
-        "meaning": "to paste"
+        "meaning": "to paste",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "tirare",
-        "meaning": "to pull"
+        "meaning": "to pull",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "controllare",
-        "meaning": "to check, to inspect"
+        "meaning": "to check, to inspect",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "assicurare",
-        "meaning": "to ensure, to assure, to make sure"
+        "meaning": "to ensure, to assure, to make sure",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "passare",
-        "meaning": "to pass"
+        "meaning": "to pass",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "girare",
-        "meaning": "to turn, to spin"
+        "meaning": "to turn, to spin",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "saltare",
-        "meaning": "to skip, to jump"
+        "meaning": "to skip, to jump",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sperare",
-        "meaning": "to hope"
+        "meaning": "to hope",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "impostare",
-        "meaning": "to set, to set up"
+        "meaning": "to set, to set up",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "reimpostare",
-        "meaning": "to reset"
+        "meaning": "to reset",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ricordare",
-        "meaning": "to remember"
+        "meaning": "to remember",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "portare",
-        "meaning": "to bring"
+        "meaning": "to bring",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "apportare",
-        "meaning": "to bring about, to cause"
+        "meaning": "to bring about, to cause",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "esportare",
-        "meaning": "to export"
+        "meaning": "to export",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "importare",
-        "meaning": "to import"
+        "meaning": "to import",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "spostare",
-        "meaning": "to move"
+        "meaning": "to move",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "aggiornare",
-        "meaning": "to update"
+        "meaning": "to update",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "analizzare",
-        "meaning": "to analyze"
+        "meaning": "to analyze",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "salvare",
-        "meaning": "to save"
+        "meaning": "to save",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "tornare",
-        "meaning": "to return"
+        "meaning": "to return",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ospitare",
-        "meaning": "to host"
+        "meaning": "to host",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "arrivare",
-        "meaning": "to arrive"
+        "meaning": "to arrive",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "evitare",
-        "meaning": "to prevent"
+        "meaning": "to prevent",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "fermare",
-        "meaning": "to stop, to halt, to end"
+        "meaning": "to stop, to halt, to end",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "provare",
-        "meaning": "to try"
+        "meaning": "to try",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "continuare",
-        "meaning": "to continue"
+        "meaning": "to continue",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "testare",
-        "meaning": "to test"
+        "meaning": "to test",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "interessare",
-        "meaning": "to interest"
+        "meaning": "to interest",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "eliminare",
-        "meaning": "to eliminate"
+        "meaning": "to eliminate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "cancellare",
-        "meaning": "to cancel"
+        "meaning": "to cancel",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "completare",
-        "meaning": "to complete"
+        "meaning": "to complete",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "guidare",
-        "meaning": "to drive, to guide, to lead"
+        "meaning": "to drive, to guide, to lead",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "utilizzare",
-        "meaning": "to utilize"
+        "meaning": "to utilize",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "notare",
-        "meaning": "to note"
+        "meaning": "to note",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "entrare",
-        "meaning": "to enter"
+        "meaning": "to enter",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "funzionare",
-        "meaning": "to function"
+        "meaning": "to function",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "incorporare",
-        "meaning": "to incorporate"
+        "meaning": "to incorporate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "envitare",
-        "meaning": "to avoid"
+        "meaning": "to avoid",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "apprezzare",
-        "meaning": "to appreciate"
+        "meaning": "to appreciate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "trattare",
-        "meaning": "to treat, to handle, to cover"
+        "meaning": "to treat, to handle, to cover",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ritrattare",
-        "meaning": "to recant, to withdraw"
+        "meaning": "to recant, to withdraw",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "regolare",
-        "meaning": "to adjust"
+        "meaning": "to adjust",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "esaminare",
-        "meaning": "to examine"
+        "meaning": "to examine",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "affermare",
-        "meaning": "to affirm"
+        "meaning": "to affirm",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "diventare",
-        "meaning": "to become"
+        "meaning": "to become",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "contattare",
-        "meaning": "to contact"
+        "meaning": "to contact",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "impegnare",
-        "meaning": "to engage, to commit"
+        "meaning": "to engage, to commit",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sognare",
-        "meaning": "to dream"
+        "meaning": "to dream",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sposare",
-        "meaning": "to marry"
+        "meaning": "to marry",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "presentare",
-        "meaning": "to present"
+        "meaning": "to present",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ballare",
-        "meaning": "to dance"
+        "meaning": "to dance",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "telefonare",
-        "meaning": "to telephone"
+        "meaning": "to telephone",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "affittare",
-        "meaning": "to rent"
+        "meaning": "to rent",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "afferrare",
-        "meaning": "to grab, to grasp (an idea)"
+        "meaning": "to grab, to grasp (an idea)",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "segnalare",
-        "meaning": "to signal"
+        "meaning": "to signal",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "valutare",
-        "meaning": "to assess, evaluate"
+        "meaning": "to assess, evaluate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "orderare",
-        "meaning": "to order"
+        "meaning": "to order",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "buttare",
-        "meaning": "to throw into, to dump, to throw away"
+        "meaning": "to throw into, to dump, to throw away",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "alzare",
-        "meaning": "to raise, to lift"
+        "meaning": "to raise, to lift",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sembrare",
-        "meaning": "to seem"
+        "meaning": "to seem",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "lottare",
-        "meaning": "to fight, to struggle"
+        "meaning": "to fight, to struggle",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "trascinare",
-        "meaning": "to drag"
+        "meaning": "to drag",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "incontrare",
-        "meaning": "to meet"
+        "meaning": "to meet",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rientrare",
-        "meaning": "to return (home)"
+        "meaning": "to return (home)",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "impiegare",
-        "meaning": "to take"
+        "meaning": "to take",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "cenare",
-        "meaning": "to dine"
+        "meaning": "to dine",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "spaventare",
-        "meaning": "to frighten"
+        "meaning": "to frighten",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "affascinare",
-        "meaning": "to fascinate"
+        "meaning": "to fascinate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dichiarare",
-        "meaning": "to state, to declare, to claim"
+        "meaning": "to state, to declare, to claim",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "pranzare",
-        "meaning": "to have lunch"
+        "meaning": "to have lunch",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "bussare",
-        "meaning": "to knock"
+        "meaning": "to knock",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "gironzolare",
-        "meaning": "to wander, hang out"
+        "meaning": "to wander, hang out",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "addormentare",
-        "meaning": "to go to sleep"
+        "meaning": "to go to sleep",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "allineare",
-        "meaning": "to align"
+        "meaning": "to align",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sbarazzare",
-        "meaning": "to get rid of"
+        "meaning": "to get rid of",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "lavare",
-        "meaning": "to wash"
+        "meaning": "to wash",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "lavorare",
-        "meaning": "to work"
+        "meaning": "to work",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "cantare",
-        "meaning": "to sing"
+        "meaning": "to sing",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "desiderare",
-        "meaning": "to want, to wish"
+        "meaning": "to want, to wish",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "liberare",
-        "meaning": "to free, to release"
+        "meaning": "to free, to release",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "visitare",
-        "meaning": "to visit"
+        "meaning": "to visit",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dubitare",
-        "meaning": "to doubt"
+        "meaning": "to doubt",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "abitare",
-        "meaning": "to live, to dwell"
+        "meaning": "to live, to dwell",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "nevicare",
-        "meaning": "to snow"
+        "meaning": "to snow",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "avvisare",
-        "meaning": "to warn, to alert"
+        "meaning": "to warn, to alert",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "riscontrare",
-        "meaning": "to encounter, to find"
+        "meaning": "to encounter, to find",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "spolverare",
-        "meaning": "to sprinkle dust"
+        "meaning": "to sprinkle dust",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rispolverare",
-        "meaning": "to dust off, to brush up on"
+        "meaning": "to dust off, to brush up on",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "stampare",
-        "meaning": "to print, print out"
+        "meaning": "to print, print out",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "accettare",
-        "meaning": "to accept"
+        "meaning": "to accept",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "affrontare",
-        "meaning": "to address, to face, to confront"
+        "meaning": "to address, to face, to confront",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "affinare",
-        "meaning": "to refine, to hone (skills)"
+        "meaning": "to refine, to hone (skills)",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "abituare",
-        "meaning": "to get used to, to habituate"
+        "meaning": "to get used to, to habituate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "manipolare",
-        "meaning": "to manipulate"
+        "meaning": "to manipulate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "automatizzare",
-        "meaning": "to automate"
+        "meaning": "to automate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dimostrare",
-        "meaning": "to demonstrate"
+        "meaning": "to demonstrate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "trovare",
-        "meaning": "to find"
+        "meaning": "to find",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "digitare",
-        "meaning": "to type"
+        "meaning": "to type",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "usare",
-        "meaning": "to use"
+        "meaning": "to use",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "fissare",
-        "meaning": "to fix, to set, to stare"
+        "meaning": "to fix, to set, to stare",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "superare",
-        "meaning": "to overcome"
+        "meaning": "to overcome",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "scartare",
-        "meaning": "to discard"
+        "meaning": "to discard",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "optare",
-        "meaning": "to opt"
+        "meaning": "to opt",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "costare",
-        "meaning": "to cost"
+        "meaning": "to cost",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "svuotare",
-        "meaning": "to empty, to clear"
+        "meaning": "to empty, to clear",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "addotare",
-        "meaning": "to adopt"
+        "meaning": "to adopt",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rilevare",
-        "meaning": "to detect"
+        "meaning": "to detect",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "segnare",
-        "meaning": "to mark, to record"
+        "meaning": "to mark, to record",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "contrassegnare",
-        "meaning": "to mark, to flag"
+        "meaning": "to mark, to flag",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "riportare",
-        "meaning": "to restore, to bring back"
+        "meaning": "to restore, to bring back",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "svelare",
-        "meaning": "to reveal, to unveil"
+        "meaning": "to reveal, to unveil",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "lasciare",
-        "meaning": "to leave, to let"
+        "meaning": "to leave, to let",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "tralasciare",
-        "meaning": "to forget, to leave out"
+        "meaning": "to forget, to leave out",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rilasciare",
-        "meaning": "to release/issue"
+        "meaning": "to release/issue",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "tagliare",
-        "meaning": "to cut"
+        "meaning": "to cut",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "copiare",
-        "meaning": "to copy"
+        "meaning": "to copy",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "incoraggiare",
-        "meaning": "to encourage"
+        "meaning": "to encourage",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "pronunciare",
-        "meaning": "to pronounce"
+        "meaning": "to pronounce",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "baciare",
-        "meaning": "to kiss"
+        "meaning": "to kiss",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "cominciare",
-        "meaning": "to begin"
+        "meaning": "to begin",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "incominciare",
-        "meaning": "to start, to begin"
+        "meaning": "to start, to begin",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "assomigliare",
-        "meaning": "to resemble"
+        "meaning": "to resemble",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ricambiare",
-        "meaning": "to reciprocate"
+        "meaning": "to reciprocate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sbadigliare",
-        "meaning": "to yawn"
+        "meaning": "to yawn",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "conciliare",
-        "meaning": "to combine, to reconcile"
+        "meaning": "to combine, to reconcile",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "assaggiare",
-        "meaning": "to taste"
+        "meaning": "to taste",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "passaggiare",
-        "meaning": "to walk, to stroll"
+        "meaning": "to walk, to stroll",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "mangiare",
-        "meaning": "to eat"
+        "meaning": "to eat",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "iniziare",
-        "meaning": "to initialize, to start"
+        "meaning": "to initialize, to start",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ritagliare",
-        "meaning": "to cut out"
+        "meaning": "to cut out",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "risparmiare",
-        "meaning": "to save, to conserve"
+        "meaning": "to save, to conserve",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rintracciare",
-        "meaning": "to track down"
+        "meaning": "to track down",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "cambiare",
-        "meaning": "to change"
+        "meaning": "to change",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "consigliare",
-        "meaning": "to recommend"
+        "meaning": "to recommend",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "uguagliare",
-        "meaning": "to equal"
+        "meaning": "to equal",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "accogliere",
-        "meaning": "to welcome"
+        "meaning": "to welcome",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "raccogliere",
-        "meaning": "to gather, to collect"
+        "meaning": "to gather, to collect",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "archiviare",
-        "meaning": "to store"
+        "meaning": "to store",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "inviare",
-        "meaning": "to send"
+        "meaning": "to send",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "avviare",
-        "meaning": "to start, to boot"
+        "meaning": "to start, to boot",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "riavviare",
-        "meaning": "to restart, to reboot"
+        "meaning": "to restart, to reboot",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "cercare",
-        "meaning": "to search"
+        "meaning": "to search",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "applicare",
-        "meaning": "to apply"
+        "meaning": "to apply",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "caricare",
-        "meaning": "to load, to upload"
+        "meaning": "to load, to upload",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "recaricare",
-        "meaning": "to reload, to recharge"
+        "meaning": "to reload, to recharge",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "scaricare",
-        "meaning": "to download"
+        "meaning": "to download",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sovraccaricare",
-        "meaning": "to overload"
+        "meaning": "to overload",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dimenticare",
-        "meaning": "to forget"
+        "meaning": "to forget",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "cliccare",
-        "meaning": "to click"
+        "meaning": "to click",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "pubblicare",
-        "meaning": "to publish"
+        "meaning": "to publish",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "modificare",
-        "meaning": "to modify"
+        "meaning": "to modify",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "specificare",
-        "meaning": "to specify"
+        "meaning": "to specify",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "spiegare",
-        "meaning": "to explain"
+        "meaning": "to explain",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "pagare",
-        "meaning": "to pay"
+        "meaning": "to pay",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "collegare",
-        "meaning": "to connect, to link"
+        "meaning": "to connect, to link",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "mancare",
-        "meaning": "be missing, to lack"
+        "meaning": "be missing, to lack",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "vagare",
-        "meaning": "to wander, to roam"
+        "meaning": "to wander, to roam",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "avere",
-        "meaning": "to have"
+        "meaning": "to have",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "essere",
-        "meaning": "to be"
+        "meaning": "to be",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "volere",
-        "meaning": "to want"
+        "meaning": "to want",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dovere",
-        "meaning": "to have to (must)"
+        "meaning": "to have to (must)",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "potere",
-        "meaning": "to be able to (can)"
+        "meaning": "to be able to (can)",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sapere",
-        "meaning": "to know"
+        "meaning": "to know",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "credere",
-        "meaning": "to believe"
+        "meaning": "to believe",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "vendere",
-        "meaning": "to sell"
+        "meaning": "to sell",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "accedere",
-        "meaning": "to access, to log in"
+        "meaning": "to access, to log in",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "accadere",
-        "meaning": "to happen, to occur"
+        "meaning": "to happen, to occur",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ricevere",
-        "meaning": "to receive"
+        "meaning": "to receive",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "cadere",
-        "meaning": "to fall"
+        "meaning": "to fall",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "scadere",
-        "meaning": "to expire"
+        "meaning": "to expire",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "piovere",
-        "meaning": "to rain"
+        "meaning": "to rain",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "premere",
-        "meaning": "to press, to push, to hit"
+        "meaning": "to press, to push, to hit",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "conoscere",
-        "meaning": "to meet"
+        "meaning": "to meet",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "crescere",
-        "meaning": "to grow, to raise"
+        "meaning": "to grow, to raise",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "vedere",
-        "meaning": "to sell"
+        "meaning": "to sell",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "scrivere",
-        "meaning": "to write"
+        "meaning": "to write",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rescrivere",
-        "meaning": "to rewrite"
+        "meaning": "to rewrite",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "descrivere",
-        "meaning": "to describe"
+        "meaning": "to describe",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "discutere",
-        "meaning": "to discuss"
+        "meaning": "to discuss",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "spingere",
-        "meaning": "to push"
+        "meaning": "to push",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rendere",
-        "meaning": "to make, to render"
+        "meaning": "to make, to render",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "prendere",
-        "meaning": "to take"
+        "meaning": "to take",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "apprendere",
-        "meaning": "to learn, to apprehend"
+        "meaning": "to learn, to apprehend",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "scendere",
-        "meaning": "to move down"
+        "meaning": "to move down",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ascendere",
-        "meaning": "to move up"
+        "meaning": "to move up",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "leggere",
-        "meaning": "to read"
+        "meaning": "to read",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "nascere",
-        "meaning": "to be born"
+        "meaning": "to be born",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "mettere",
-        "meaning": "to put, to get, to place"
+        "meaning": "to put, to get, to place",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "smettere",
-        "meaning": "to stop, to cease"
+        "meaning": "to stop, to cease",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "emettere",
-        "meaning": "to issue, to emit"
+        "meaning": "to issue, to emit",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "permettere",
-        "meaning": "to permit"
+        "meaning": "to permit",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ridere",
-        "meaning": "to laugh"
+        "meaning": "to laugh",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sorridere",
-        "meaning": "to smile"
+        "meaning": "to smile",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "connettere",
-        "meaning": "to connect"
+        "meaning": "to connect",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "chiudere",
-        "meaning": "to close"
+        "meaning": "to close",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "aggiungere",
-        "meaning": "to add"
+        "meaning": "to add",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "muovere",
-        "meaning": "to move"
+        "meaning": "to move",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rimuovere",
-        "meaning": "to remove"
+        "meaning": "to remove",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "risolvere",
-        "meaning": "to solve, to resolve"
+        "meaning": "to solve, to resolve",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rispondere",
-        "meaning": "to respond"
+        "meaning": "to respond",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "corrispondere",
-        "meaning": "to correspond"
+        "meaning": "to correspond",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "succedere",
-        "meaning": "to happen"
+        "meaning": "to happen",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "coinvolgere",
-        "meaning": "to involve"
+        "meaning": "to involve",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "raggiungere",
-        "meaning": "to reach, to achieve"
+        "meaning": "to reach, to achieve",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dividere",
-        "meaning": "to divide"
+        "meaning": "to divide",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "esistere",
-        "meaning": "to exist"
+        "meaning": "to exist",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "correggere",
-        "meaning": "to correct"
+        "meaning": "to correct",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rompere",
-        "meaning": "to break"
+        "meaning": "to break",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "vincere",
-        "meaning": "to win"
+        "meaning": "to win",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "decidere",
-        "meaning": "to decide"
+        "meaning": "to decide",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "chiedere",
-        "meaning": "to ask"
+        "meaning": "to ask",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "richiedere",
-        "meaning": "to require, to request, to take (time)"
+        "meaning": "to require, to request, to take (time)",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sottintendere",
-        "meaning": "to imply"
+        "meaning": "to imply",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "intendere",
-        "meaning": "to suggest"
+        "meaning": "to suggest",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "pedere",
-        "meaning": "to lose"
+        "meaning": "to lose",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "correre",
-        "meaning": "to run"
+        "meaning": "to run",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "scorrere",
-        "meaning": "to scroll"
+        "meaning": "to scroll",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "trascorrere",
-        "meaning": "to spend, to enjoy"
+        "meaning": "to spend, to enjoy",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "riflettere",
-        "meaning": "to reflect"
+        "meaning": "to reflect",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dipingere",
-        "meaning": "to paint"
+        "meaning": "to paint",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "protegere",
-        "meaning": "to protect"
+        "meaning": "to protect",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "avvolgere",
-        "meaning": "to wrap"
+        "meaning": "to wrap",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "racchiudere",
-        "meaning": "to enclose"
+        "meaning": "to enclose",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "piangere",
-        "meaning": "to cry"
+        "meaning": "to cry",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "esprimere",
-        "meaning": "to express, voice"
+        "meaning": "to express, voice",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "vivere",
-        "meaning": "to live, to experience"
+        "meaning": "to live, to experience",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "tingere",
-        "meaning": "to dye, to stain"
+        "meaning": "to dye, to stain",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "immergere",
-        "meaning": "to immerse"
+        "meaning": "to immerse",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "nascondere",
-        "meaning": "to hide"
+        "meaning": "to hide",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dipendere",
-        "meaning": "to depend"
+        "meaning": "to depend",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "restringere",
-        "meaning": "to restrict, to narrow"
+        "meaning": "to restrict, to narrow",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rivolgere",
-        "meaning": "to address"
+        "meaning": "to address",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "tenere",
-        "meaning": "to take, to keep, to hold"
+        "meaning": "to take, to keep, to hold",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ritenere",
-        "meaning": "to believe, to consider"
+        "meaning": "to believe, to consider",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ottenere",
-        "meaning": "to obtain"
+        "meaning": "to obtain",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "mantenere",
-        "meaning": "to maintain"
+        "meaning": "to maintain",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "contenere",
-        "meaning": "to contain"
+        "meaning": "to contain",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sostenere",
-        "meaning": "to support, to argue"
+        "meaning": "to support, to argue",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rimanere",
-        "meaning": "to remain"
+        "meaning": "to remain",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "scegliere",
-        "meaning": "to choose"
+        "meaning": "to choose",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "togliere",
-        "meaning": "to remove"
+        "meaning": "to remove",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "piacere",
-        "meaning": "to like"
+        "meaning": "to like",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "giacere",
-        "meaning": "to lie (rest/recline)"
+        "meaning": "to lie (rest/recline)",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "nuocere",
-        "meaning": "to harm"
+        "meaning": "to harm",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "tacere",
-        "meaning": "to be silent, to shut up"
+        "meaning": "to be silent, to shut up",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "bere",
-        "meaning": "to drink"
+        "meaning": "to drink",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "produrre",
-        "meaning": "to produce"
+        "meaning": "to produce",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "tradurre",
-        "meaning": "to translate"
+        "meaning": "to translate",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "condurre",
-        "meaning": "to conduct, to lead, to carry out"
+        "meaning": "to conduct, to lead, to carry out",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ridurre",
-        "meaning": "to reduce, to minimize"
+        "meaning": "to reduce, to minimize",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "porre",
-        "meaning": "to put, to place"
+        "meaning": "to put, to place",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "proporre",
-        "meaning": "to suggest"
+        "meaning": "to suggest",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "supporre",
-        "meaning": "to suppose"
+        "meaning": "to suppose",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "comporre",
-        "meaning": "to compose"
+        "meaning": "to compose",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "deporre",
-        "meaning": "to depose"
+        "meaning": "to depose",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "imporre",
-        "meaning": "to impose"
+        "meaning": "to impose",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "esporre",
-        "meaning": "to expose"
+        "meaning": "to expose",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "riporre",
-        "meaning": "to put back"
+        "meaning": "to put back",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "disporre",
-        "meaning": "to arrange"
+        "meaning": "to arrange",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "preporre",
-        "meaning": "to put before"
+        "meaning": "to put before",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "interporre",
-        "meaning": "to interpose"
+        "meaning": "to interpose",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sottoporre",
-        "meaning": "to subject"
+        "meaning": "to subject",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "contrapporre",
-        "meaning": "to contrast"
+        "meaning": "to contrast",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "venire",
-        "meaning": "to come"
+        "meaning": "to come",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "prevenire",
-        "meaning": "to prevent, to avoid"
+        "meaning": "to prevent, to avoid",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dire",
-        "meaning": "to say"
+        "meaning": "to say",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "uscire",
-        "meaning": "to go out"
+        "meaning": "to go out",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "riuscire",
-        "meaning": "to be able to, to manage, to succeed"
+        "meaning": "to be able to, to manage, to succeed",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "partire",
-        "meaning": "to start"
+        "meaning": "to start",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "dormire",
-        "meaning": "to sleep"
+        "meaning": "to sleep",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "convertire",
-        "meaning": "to convert"
+        "meaning": "to convert",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "eseguire",
-        "meaning": "to execute, to run"
+        "meaning": "to execute, to run",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "consentire",
-        "meaning": "to allow"
+        "meaning": "to allow",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sentire",
-        "meaning": "to hear"
+        "meaning": "to hear",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "divertire",
-        "meaning": "to entertain, to amuse"
+        "meaning": "to entertain, to amuse",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "fuggire",
-        "meaning": "to run away, to escape, to flee"
+        "meaning": "to run away, to escape, to flee",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "coprire",
-        "meaning": "to cover"
+        "meaning": "to cover",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "scoprire",
-        "meaning": "to discover, to find out"
+        "meaning": "to discover, to find out",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "offrire",
-        "meaning": "to offer"
+        "meaning": "to offer",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "aprire",
-        "meaning": "to open"
+        "meaning": "to open",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "capire",
-        "meaning": "to undertand"
+        "meaning": "to undertand",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "finire",
-        "meaning": "to finish"
+        "meaning": "to finish",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "definire",
-        "meaning": "to define"
+        "meaning": "to define",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "pulire",
-        "meaning": "to clean"
+        "meaning": "to clean",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ripulire",
-        "meaning": "to clean up"
+        "meaning": "to clean up",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "fornire",
-        "meaning": "to provide"
+        "meaning": "to provide",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "inserire",
-        "meaning": "to insert"
+        "meaning": "to insert",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "restituire",
-        "meaning": "to return (a value)"
+        "meaning": "to return (a value)",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sostituire",
-        "meaning": "to replace"
+        "meaning": "to replace",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "distribuire",
-        "meaning": "to deploy"
+        "meaning": "to deploy",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "ridistribuire",
-        "meaning": "to redeploy"
+        "meaning": "to redeploy",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "impedire",
-        "meaning": "to prevent"
+        "meaning": "to prevent",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "svanire",
-        "meaning": "to vanish"
+        "meaning": "to vanish",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "interagire",
-        "meaning": "to interact"
+        "meaning": "to interact",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "preferire",
-        "meaning": "to prefer"
+        "meaning": "to prefer",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "rapire",
-        "meaning": "to abduct, to kidnap"
+        "meaning": "to abduct, to kidnap",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "colpire",
-        "meaning": "to affect, to hit, to strike, to impress"
+        "meaning": "to affect, to hit, to strike, to impress",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "costruire",
-        "meaning": "to build, to construct"
+        "meaning": "to build, to construct",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "tossire",
-        "meaning": "to cough"
+        "meaning": "to cough",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "riferire",
-        "meaning": "to refer, to report"
+        "meaning": "to refer, to report",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "sbalordire",
-        "meaning": "to amaze"
+        "meaning": "to amaze",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "annuire",
-        "meaning": "to nod"
+        "meaning": "to nod",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "riempire",
-        "meaning": "to fill"
+        "meaning": "to fill",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "apparire",
-        "meaning": "to appear"
+        "meaning": "to appear",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "scomparire",
-        "meaning": "to disappear"
+        "meaning": "to disappear",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "morire",
-        "meaning": "to die"
+        "meaning": "to die",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "salire",
-        "meaning": "to climb, to get on (a train)"
+        "meaning": "to climb, to get on (a train)",
+        "conjugation_notes": "conjugation notes not implemented"
     },
     {
         "name": "avvenire",
-        "meaning": "to take place, to happen"
+        "meaning": "to take place, to happen",
+        "conjugation_notes": "conjugation notes not implemented"
     }
 ]

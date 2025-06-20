@@ -1,13 +1,26 @@
 import _rawVerbs from "../../parseddata/verbs.json";
 import { useLocalStorage } from "../hooks/useLocalStorage";
 
+type verbKind = "are" | "ere" | "ire" | "UNKNOWN";
+
 type Verb = {
 	name: string;
 	meaning: string;
 	isOpen: boolean;
 	isLearned: boolean;
-	timesTaken: number
+	timesTaken: number;
+	kind: verbKind;
 };
+
+const getVerbKind = (verbName: string): verbKind => {
+	if (verbName.endsWith('are')) return 'are';
+	if (verbName.endsWith('ere')) return 'ere';
+	if (verbName.endsWith('ire')) return 'ire';
+	if (verbName.endsWith('arsi')) return 'are';
+	if (verbName.endsWith('ersi')) return 'ere';
+	if (verbName.endsWith('irsi')) return 'ire';
+	return 'UNKNOWN';
+}
 
 const _initialVerbs: Verb[] = [];
 for (const verb of _rawVerbs) {
@@ -16,7 +29,8 @@ for (const verb of _rawVerbs) {
 		meaning: verb.meaning,
 		isOpen: false,
 		isLearned: false,
-		timesTaken: 0
+		timesTaken: 0,
+		kind: getVerbKind(verb.name),
 	};
 	_initialVerbs.push(initialVerb);
 }
@@ -57,11 +71,23 @@ export const PageFlashcards = () => {
 										)}
 									</div>
 									{verb.isOpen && (
-										<div key={index} className="back italic text-left rounded-b py-1 px-2 flex justify-between items-center">
-											<div className="font-semibold">
-												{verb.name}
+										<div key={index} className="back italic text-left rounded-b py-1 px-2 ">
+											<div className="flex justify-between items-center">
+												<div className="font-semibold">
+													{verb.name}
+												</div>
+												<button className="px-1 uppercase bg-green-900 text-sm text-white rounded hover:bg-green-800" onClick={() => handleToggleLearned(verb)}>learned</button>
 											</div>
-											<button className="px-1 uppercase bg-green-900 text-sm text-white rounded hover:bg-green-800" onClick={() => handleToggleLearned(verb)}>learned</button>
+											{verb.kind === 'are' && (
+												<div className="section">
+													<p>PRES: -o, -i, -a, -iamo, -ate, -ano</p>
+													<p>IMPE: -avo, -avi, -ava, -avamo, -avate, -avano</p>
+													<p>PAPR: ho/sono -ato</p>
+													<p>FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno</p>
+													<p>COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero</p>
+													<p>PARE: -ai, -asti, -ò, -ammo, -aste, -arono</p>
+												</div>
+											)}
 										</div>
 									)}
 								</>

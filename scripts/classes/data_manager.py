@@ -33,13 +33,13 @@ class DataManager:
 		raw_example_text = self.__get_text_after_first_semicolon(line)
 		if raw_example_text == '':
 			return []
-		# return self.__parse_line_to_dicts(raw_example_text)
-		return self.__parse_line_to_dicts("1iii; 1eee; 2iii; 2eee")
+		return self.__parse_line_to_dicts(raw_example_text)
+		# return self.__parse_line_to_dicts("1iii; 1eee; 2iii; 2eee")
 
 	def __parse_line_to_dicts(self, line: str) -> list[dict]:
 		parts = [p.strip() for p in line.split(';')]
 		if len(parts) % 2 != 0:
-			print("Uneven number of segments; expected pairs of Italian and English phrases.")
+			raise ValueError("Uneven number of parts in example line: " + line)
 
 		result = []
 		for i in range(0, len(parts), 2):

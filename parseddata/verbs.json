@@ -5,12 +5,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "il team DevOps deve assicurarsi che",
+                "english": "the DevOps team must ensure that"
             }
         ]
     },
@@ -20,12 +16,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "è meglio concentrarsi sui verbi più comuni",
+                "english": "it's better to focus on the most common verbs"
             }
         ]
     },
@@ -35,12 +27,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "il software si adatta automaticamente alle diverse risoluzioni dello schermo",
+                "english": "the software automatically adapts to different screen resolutions"
             }
         ]
     },
@@ -86,12 +74,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "molti sviluppatori hanno deciso di unirsi alla community open source",
+                "english": "many developers have decided to join the open source community"
             }
         ]
     },
@@ -113,12 +97,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "mi sento stanco oggi",
+                "english": "I feel tired today"
             }
         ]
     },
@@ -194,12 +174,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "guarda cosa c'è sulla schermata",
+                "english": "look what's on the screen"
             }
         ]
     },
@@ -227,12 +203,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "ti assicuro che farò del mio meglio per risolvere il problema",
+                "english": "I assure you that I will do my best to solve the problem"
             }
         ]
     },
@@ -254,12 +226,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "per ora salteremo questo",
+                "english": "we'll skip this for now"
             }
         ]
     },
@@ -275,12 +243,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "imposto la password del database",
+                "english": "set the database password"
             }
         ]
     },
@@ -308,12 +272,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "l'aggiornamento apporta miglioramenti significativi",
+                "english": "the update brings significant improvements"
             }
         ]
     },
@@ -335,12 +295,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "abbiamo spostato il file di testo",
+                "english": "we moved the text file"
             }
         ]
     },
@@ -362,12 +318,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "tu salvi la password nel browser",
+                "english": "you save the password in the browser"
             }
         ]
     },
@@ -377,12 +329,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "quindi ora torniamo al nostro progetto",
+                "english": "so now let's get back to our project"
             }
         ]
     },
@@ -410,12 +358,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "fermeremo l'esecuzione del progetto",
+                "english": "we will stop the execution of the project"
             }
         ]
     },
@@ -425,12 +369,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "proveremo scorrere verso l'alto",
+                "english": "we will try to scroll up"
             }
         ]
     },
@@ -452,12 +392,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "la nuova versione di React interesserà molti sviluppatori",
+                "english": "the new version of React will interest many developers"
             }
         ]
     },
@@ -533,12 +469,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "gli argomenti che tratteremo",
+                "english": "the topics we will cover"
             }
         ]
     },
@@ -584,12 +516,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "che ti sei impegnato con",
+                "english": "that you have committed to"
             }
         ]
     },
@@ -635,12 +563,12 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
+                "italian": "afferrare questa linea",
+                "english": "grab this line"
             },
             {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "se non riesci ad afferrare questa linea di codice",
+                "english": "se non riesci ad afferrare questa linea di codice"
             }
         ]
     },
@@ -710,12 +638,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "il treno impiega quarantacinque minuti per arrivare",
+                "english": "the train takes forty-five minutes to arrive"
             }
         ]
     },
@@ -731,12 +655,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "l'ho spaventato",
+                "english": "I frightened him"
             }
         ]
     },
@@ -1130,12 +1050,8 @@
         "conjugation_notes": "*, /i, *, /iamo, *, *, *",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "il bug è difficile da rintracciare [CHAR-ay]",
+                "english": "the bug is difficult to trace"
             }
         ]
     },
@@ -1301,12 +1217,8 @@
         "conjugation_notes": "sono, sei, è, siamo, siete, sono, è stato",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "il sistema è stato aggiornato ieri",
+                "english": "il sistema è stato aggiornato ieri"
             }
         ]
     },
@@ -1352,12 +1264,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login",
+                "english": "The user can access the dashboard only after logging in"
             }
         ]
     },
@@ -1367,12 +1275,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "qualcosa che accadrà a breve",
+                "english": "something that will happen soon"
             }
         ]
     },
@@ -1382,12 +1286,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "quando ricevi una notifica sul tuo dispositivo",
+                "english": "when you receive a notification on your device"
             }
         ]
     },
@@ -1415,12 +1315,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "e poi premerò il tasto",
+                "english": "and then I'll press the button"
             }
         ]
     },
@@ -1514,12 +1410,8 @@
         "conjugation_notes": "*, *, *, *, *, *, ho nato",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "lei è nata nel 1995",
+                "english": "she was born in 1995"
             }
         ]
     },
@@ -1559,12 +1451,8 @@
         "conjugation_notes": "*, *, *, *, *, *, ho sorriso",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "poi ha sorriso",
+                "english": "then he smiled"
             }
         ]
     },
@@ -1622,12 +1510,12 @@
         "conjugation_notes": "*, *, *, *, *, *, ho successo",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
+                "italian": "quello che sta succedendo è che",
+                "english": "what's happening is that"
             },
             {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "la casa",
+                "english": "the house"
             }
         ]
     },
@@ -1811,12 +1699,8 @@
         "conjugation_notes": "*, *, *, *, *, *, ho rivolto",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "usata quando ti rivolgi a una sola persona con cui dai del tu",
+                "english": "used when you are addressing just one person using the informal tu"
             }
         ]
     },
@@ -1832,12 +1716,8 @@
         "conjugation_notes": "-go, ritieni, ritiene, *, *, -gono, *",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "Ritengo che sia importante ascoltare tutte le opinioni prima di prendere una decisione.",
+                "english": "I believe it is important to listen to all opinions before making a decision."
             }
         ]
     },
@@ -1847,12 +1727,8 @@
         "conjugation_notes": "-go, ottieni, ottiene, *, *, -gono, *",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "Ottengo buoni risultati quando mi impegno seriamente.",
+                "english": "I get good results when I apply myself seriously."
             }
         ]
     },
@@ -1898,12 +1774,8 @@
         "conjugation_notes": "-cio, *, *, -ciamo, *, -ciono, ho piaciuto",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "mi piace",
+                "english": "I like"
             }
         ]
     },
@@ -1913,12 +1785,8 @@
         "conjugation_notes": "-cio, *, *, -ciamo, *, -ciono, ho giaciuto",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "il libro giace sul tavolo",
+                "english": "the book lies on the table"
             }
         ]
     },
@@ -1970,12 +1838,8 @@
         "conjugation_notes": "(pon-) -go, *, *, *, *, -gono, posto",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "devi porre più attenzione ai dettagli",
+                "english": "you have to pay more attention to details"
             }
         ]
     },
@@ -2081,12 +1945,8 @@
         "conjugation_notes": "riesco, riesci, riesce, *, *, riescono, *",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "sono riuscito a risolvere",
+                "english": "I managed to solve it"
             }
         ]
     },
@@ -2114,12 +1974,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "lo script esegue cinque volte al giorno",
+                "english": "the script runs five times a day"
             }
         ]
     },
@@ -2129,12 +1985,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "questa applicazione consente di gestire i dati in tempo reale",
+                "english": "this application allows you to manage data in real time"
             }
         ]
     },
@@ -2144,12 +1996,8 @@
         "conjugation_notes": "",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "ho sentito parlare di un nuovo aggiornamento per il framework Vue.js",
+                "english": "I heard about a new update for the Vue.js framework"
             }
         ]
     },
@@ -2171,12 +2019,8 @@
         "conjugation_notes": "*, *, *, *, *, *, coperto,",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "lo copriremo in questo corso",
+                "english": "we will cover it in this course"
             }
         ]
     },
@@ -2300,12 +2144,8 @@
         "conjugation_notes": "-isco, -isci, -isce, *, *, -iscono, *",
         "examples": [
             {
-                "italian": "1iii",
-                "english": "1eee"
-            },
-            {
-                "italian": "2iii",
-                "english": "2eee"
+                "italian": "la cosa che mi ha colpito di più",
+                "english": "the thing that struck me the most"
             }
         ]
     },

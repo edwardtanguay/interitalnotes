@@ -6,6 +6,7 @@ type Verb = {
 	meaning: string;
 	isOpen: boolean;
 	isLearned: boolean;
+	timesTaken: number
 };
 
 const _initialVerbs: Verb[] = [];
@@ -15,6 +16,7 @@ for (const verb of _rawVerbs) {
 		meaning: verb.meaning,
 		isOpen: false,
 		isLearned: false,
+		timesTaken: 0
 	};
 	_initialVerbs.push(initialVerb);
 }
@@ -40,7 +42,14 @@ export const PageFlashcards = () => {
 					<>
 						{!verb.isLearned && (
 							<div key={index}>
-								<div key={index} className="bg-orange-300 italic rounded-t py-1 px-2 cursor-pointer select-none" onClick={() => handleToggleOpen(verb)}>{verb.meaning}</div>
+								<div key={index} className="bg-orange-300 italic rounded-t py-1 px-2 cursor-pointer select-none flex justify-between" onClick={() => handleToggleOpen(verb)}>
+									<div>
+										{verb.meaning}
+									</div>
+									<div className="font-mono">
+										{verb.timesTaken}
+									</div>
+								</div>
 								{verb.isOpen && (
 									<div key={index} className="bg-green-300 italic text-left rounded-b py-1 px-2 flex justify-between items-center">
 										<div className="font-semibold">

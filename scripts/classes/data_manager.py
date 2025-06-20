@@ -25,8 +25,21 @@ class DataManager:
 				self.verbs.append({
 					"name": verb,
 					"meaning": self.__get_meaning(line),
-					"conjugation_notes": self.__get_conjugation_notes(line)
+					"conjugation_notes": self.__get_conjugation_notes(line),
+					"examples": self.__get_examples(line)
 					})
+
+	def __get_examples(self, line: str) -> list[str]:
+		return [
+			{
+				"english": "the user can access the dashboard only after logging in",
+				"italian": "l'utente può accedere alla dashboard solo dopo aver effettuato il login"
+			},
+			{
+				"english": "something that will happen soon",
+				"italian": "qualcosa che accadrà a breve"
+			}
+		]
 
 	def __get_conjugation_notes(self, line: str) -> str:
 		if ":" in line and "//" in line:

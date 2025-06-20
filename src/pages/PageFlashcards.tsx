@@ -45,13 +45,16 @@ export const PageFlashcards = () => {
 					<div className="verbFlashcard" key={index}>
 						{!verb.isLearned && (
 							<>
-								<div key={index} className="front  italic rounded-t py-1 px-2 cursor-pointer select-none flex justify-between" onClick={() => handleToggleOpen(verb)}>
-									<div>
+								<div key={index} className={`front ${verb.timesTaken === 0 ? 'notYetTaken' : 'alreadyTaken'} rounded-t py-1 px-2 cursor-pointer select-none items-center flex justify-between`} onClick={() => handleToggleOpen(verb)}>
+									<div className="italic">
 										{verb.meaning}
 									</div>
-									<div className="font-mono">
-										{verb.timesTaken}
-									</div>
+									{verb.timesTaken !== 0 && (
+										<div className="font-mono text-xs text-yellow-100">
+
+											{verb.timesTaken}
+										</div>
+									)}
 								</div>
 								{verb.isOpen && (
 									<div key={index} className="back italic text-left rounded-b py-1 px-2 flex justify-between items-center">

@@ -17,7 +17,7 @@ a.active {
 
 body {
 	opacity: 0;
-	animation: fadeIn .3s ease-in forwards;
+	animation: fadeIn 0.3s ease-in forwards;
 }
 
 @keyframes fadeIn {
@@ -31,8 +31,11 @@ body {
 
 .pageFlashcards {
 	.verbFlashcard {
-		.front {
+		.front.notYetTaken {
 			background-color: goldenrod;
+		}
+		.front.alreadyTaken {
+			background-color: rgb(145, 107, 13);
 		}
 		.back {
 			background-color: rgb(241, 217, 154);

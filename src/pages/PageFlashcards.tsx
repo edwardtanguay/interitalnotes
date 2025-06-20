@@ -10,6 +10,7 @@ type Verb = {
 	isLearned: boolean;
 	timesTaken: number;
 	kind: verbKind;
+	conjugationUrl: string;
 };
 
 const getVerbKind = (verbName: string): verbKind => {
@@ -31,6 +32,7 @@ for (const verb of _rawVerbs) {
 		isLearned: false,
 		timesTaken: 0,
 		kind: getVerbKind(verb.name),
+		conjugationUrl: `https://conjugator.reverso.net/conjugation-italian-verb-${verb.name}.html`,
 	};
 	_initialVerbs.push(initialVerb);
 }
@@ -71,7 +73,7 @@ export const PageFlashcards = () => {
 										)}
 									</div>
 									{verb.isOpen && (
-										<div key={index} className="back italic text-left rounded-b py-1 px-2 ">
+										<div key={index} className="back text-left rounded-b py-1 px-2 ">
 											<div className="flex justify-between items-center">
 												<div className="font-semibold">
 													{verb.name}
@@ -109,6 +111,9 @@ export const PageFlashcards = () => {
 													<p>PARE: -ii, -isti, -ì, -immo, -iste, -irono</p>
 												</div>
 											)}
+											<div className="section">
+												<p>Full conjugation: <a href={verb.conjugationUrl} target="_blank" className="text-blue-800 underline">Reverso Conjugator</a></p>
+											</div>
 										</div>
 									)}
 								</>

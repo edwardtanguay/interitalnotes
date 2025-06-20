@@ -42,31 +42,32 @@ export const PageFlashcards = () => {
 			<h2 className="text-xl mb-3">Learned {verbs.filter(verb => verb.isLearned).length} of {verbs.length} Verbs</h2>
 			<div className="flex flex-col gap-2 md:flex-column md:w-[21rem]">
 				{verbs.map((verb, index) => (
-					<div className="verbFlashcard" key={index}>
+					<>
 						{!verb.isLearned && (
-							<>
-								<div key={index} className={`front ${verb.timesTaken === 0 ? 'notYetTaken' : 'alreadyTaken'} rounded-t py-1 px-2 cursor-pointer select-none items-center flex justify-between`} onClick={() => handleToggleOpen(verb)}>
-									<div className="italic">
-										{verb.meaning}
+							<div className="verbFlashcard" key={index}>
+								<>
+									<div key={index} className={`front ${verb.timesTaken === 0 ? 'notYetTaken' : 'alreadyTaken'} rounded-t py-1 px-2 cursor-pointer select-none items-center flex justify-between`} onClick={() => handleToggleOpen(verb)}>
+										<div className="italic">
+											{verb.meaning}
+										</div>
+										{verb.timesTaken !== 0 && (
+											<div className="font-mono text-xs text-yellow-100">
+												{verb.timesTaken}
+											</div>
+										)}
 									</div>
-									{verb.timesTaken !== 0 && (
-										<div className="font-mono text-xs text-yellow-100">
-
-											{verb.timesTaken}
+									{verb.isOpen && (
+										<div key={index} className="back italic text-left rounded-b py-1 px-2 flex justify-between items-center">
+											<div className="font-semibold">
+												{verb.name}
+											</div>
+											<button className="px-1 uppercase bg-green-900 text-sm text-white rounded hover:bg-green-800" onClick={() => handleToggleLearned(verb)}>learned</button>
 										</div>
 									)}
-								</div>
-								{verb.isOpen && (
-									<div key={index} className="back italic text-left rounded-b py-1 px-2 flex justify-between items-center">
-										<div className="font-semibold">
-											{verb.name}
-										</div>
-										<button className="px-1 bg-green-900 text-sm text-white rounded hover:bg-green-800" onClick={() => handleToggleLearned(verb)}>learned</button>
-									</div>
-								)}
-							</>
+								</>
+							</div>
 						)}
-					</div>
+					</>
 				))}
 			</div>
 		</div>

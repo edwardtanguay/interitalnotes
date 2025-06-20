@@ -26,6 +26,9 @@ export const PageFlashcards = () => {
 
 	const handleToggleOpen = (verb: Verb) => {
 		verb.isOpen = !verb.isOpen;
+		if (!verb.isOpen) {
+			verb.timesTaken += 1;
+		}
 		setVerbs([...verbs]);
 	}
 

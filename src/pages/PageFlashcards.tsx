@@ -1,12 +1,14 @@
 import React from "react";
 import _rawVerbs from "../../parseddata/verbs.json";
 import { useLocalStorage } from "../hooks/useLocalStorage";
+import * as config from "../config";
 
 type verbKind = "are" | "ere" | "ire" | "UNKNOWN";
 
 type VerbExample = {
 	english: string;
 	italian: string;
+	isOpen: boolean;
 }
 
 type Verb = {
@@ -19,6 +21,7 @@ type Verb = {
 	conjugationUrl: string;
 	conjugationNotes: string
 	examples: VerbExample[];
+	prompt: string;
 };
 
 const getVerbKind = (verbName: string): verbKind => {
@@ -42,7 +45,8 @@ for (const _rawVerb of _rawVerbs) {
 		kind: getVerbKind(_rawVerb.name),
 		conjugationUrl: `https://conjugator.reverso.net/conjugation-italian-verb-${_rawVerb.name}.html`,
 		conjugationNotes: _rawVerb.conjugation_notes || '',
-		examples: _rawVerb.examples || []
+		examples: _rawVerb.examples.map(m => ({ ...m, isOpen: false })) || [],
+		prompt: `8 examples of the Italian verb "${_rawVerb.name}", one of these tenses per example (presente, imperfetto, passato remoto, futuro semplice, passato prossimo, condizionale presente, gerundio presente, imperativo), one of these personal pronouns per example (io, tu, lui, lei, Lei, noi, voi, loro) with Italian and English in the form "<italian> ; <english>", don't number them, and start with lowercase if grammatically correct (e.g. leave "I" capitalized at beginning of an English sentence), 9 Italian words max, at begging of  the English phrase, note which past tense is used, e.g. with (passato remoto), (imperfetto), (passato prossimo), randomize the order of the tenses, e.g. sometimes start with passato remoto, sometimes with futuro semplice, etc.`
 	};
 	_initialVerbs.push(initialVerb);
 }
@@ -58,10 +62,16 @@ export const PageFlashcards = () => {
 		setVerbs([...verbs]);
 	}
 
+	const handleExampleToggleOpen = (example: VerbExample) => {
+		example.isOpen = !example.isOpen;
+		setVerbs([...verbs]);
+	}
+
 	const handleToggleLearned = (verb: Verb) => {
 		verb.isLearned = !verb.isLearned;
 		setVerbs([...verbs]);
 	}
+
 
 	return (
 		<div className="pageFlashcards">
@@ -74,7 +84,7 @@ export const PageFlashcards = () => {
 								<React.Fragment key={index}>
 									<div className={`front ${verb.timesTaken === 0 ? 'notYetTaken' : 'alreadyTaken'} rounded-t py-1 px-2 cursor-pointer select-none items-center flex justify-between`} onClick={() => handleToggleOpen(verb)}>
 										<div className="italic">
-											{verb.meaning}
+											{verb.meaning} {verb.examples.length >= 8 && (<span className="not-italic">🚀</span>)}
 										</div>
 										{verb.timesTaken !== 0 && (
 											<div className="font-mono text-xs text-yellow-100">
@@ -84,19 +94,20 @@ export const PageFlashcards = () => {
 									</div>
 									{verb.isOpen && (
 										<div className="back text-left rounded-b py-1 px-2 ">
-											<div className="flex justify-between items-center">
-												<div className="font-semibold">
+											<div className="flex justify-center items-center">
+												<div className="font-semibold text-[1.3rem]">
 													{verb.name}
 												</div>
-												<button className="px-1 uppercase bg-green-900 text-sm text-white rounded hover:bg-green-800" onClick={() => handleToggleLearned(verb)}>learned</button>
 											</div>
 											{verb.conjugationNotes.trim() !== "" && (
 												<div className="section">
+													<p className="italic opacity-50">(special conjugation)</p>
 													<p>{verb.conjugationNotes}</p>
 												</div>
 											)}
 											{verb.kind === 'are' && (
 												<div className="section">
+													<p className="italic opacity-50">(regular conjugation)</p>
 													<p>PRES: -o, -i, -a, -iamo, -ate, -ano</p>
 													<p>IMPE: -avo, -avi, -ava, -avamo, -avate, -avano</p>
 													<p>PAPR: ho/sono -ato</p>
@@ -126,33 +137,46 @@ export const PageFlashcards = () => {
 													<p>PARE: -ii, -isti, -ì, -immo, -iste, -irono</p>
 												</div>
 											)}
-											<div className="section">
-												<p>Full conjugation: <a href={verb.conjugationUrl} target="_blank" className="text-blue-800 underline">Reverso Conjugator</a></p>
+											<div className="section text-center">
+												<p className="text-[.9rem]">Full conjugation: <a href={verb.conjugationUrl} target="_blank" className="text-blue-800 underline">Reverso Conjugator</a></p>
 											</div>
 											{verb.examples.length > 0 && (
-												<div className="section">
-													<ul className="list-disc ml-3">
-														{verb.examples.map((example, index) => (
-															<li key={index} className="mb-1 text-green-900 italic leading-[1.25]">
-																{example.italian}
-																<ul className="list-disc ml-3">
-																	<li className="text-blue-950 opacity-30">
-																		{example.english}
-																	</li>
-																</ul>
-															</li>
-														))}
-													</ul>
+												<div className="section flex gap-1 flex-col">
+													{verb.examples.map((example, index) => (
+														<div className="exampleCard text-[1rem]" key={index}>
+															<div className="exampleFront rounded-t py-1 px-2 cursor-pointer select-none bg-slate-600 italic text-slate-100 text-[.8rem]"
+																onClick={() => handleExampleToggleOpen(example)}>
+																{example.english}</div>
+															{example.isOpen && (
+																<div className="exampleBack rounded-b py-1 px-2 cursor-pointer select-none bg-slate-900 text-green-400">{example.italian}</div>
+															)}
+														</div>
+													))}
 												</div>
 											)}
+											{config.siteIsLocal() && verb.examples.length < 8 && (
+												<div className="section">
+													<textarea
+														spellCheck="false"
+														autoCorrect="off"
+														autoCapitalize="off"
+														readOnly
+														className="w-full h-24 p-2 bg-gray-100 rounded border border-gray-300 font-mono" value={verb.prompt} />
+												</div>
+											)}
+											<div className="section flex justify-between items-center !pt-3">
+												<button className="px-1 uppercase bg-red-900 text-sm text-white rounded hover:bg-red-800" onClick={() => handleToggleOpen(verb)}>test again later</button>
+												<button className="px-1 uppercase bg-green-900 text-sm text-white rounded hover:bg-green-800" onClick={() => handleToggleLearned(verb)}>learned</button>
+											</div>
 										</div>
 									)}
 								</React.Fragment>
 							</div>
 						)}
 					</React.Fragment>
-				))}
+				))
+				}
 			</div >
-		</div>
+		</div >
 	)
 }

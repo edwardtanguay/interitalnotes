@@ -36,6 +36,7 @@ body {
 		}
 		.front.alreadyTaken {
 			background-color: rgb(145, 107, 13);
+			color: #fff;
 		}
 		.back {
 			background-color: rgb(241, 217, 154);
@@ -43,8 +44,9 @@ body {
 		.section {
 			border-top: 1px solid rgb(209, 184, 121);
 			margin-top: 0.3rem;
-			padding-top: 0.3rem;
 			font-size: .7rem;
+			padding-top: .5rem;
+			padding-bottom: .5rem;
 		}
 	}
 }

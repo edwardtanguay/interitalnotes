@@ -1,130 +1,159 @@
 [
     {
-        "name": "assicurarsi",
-        "meaning": "to make sure",
-        "conjugation_notes": "",
-        "examples": [
-            {
-                "italian": "il team DevOps deve assicurarsi che",
-                "english": "the DevOps team must ensure that"
-            }
-        ]
-    },
-    {
-        "name": "concentrarsi",
-        "meaning": "to concentrate",
-        "conjugation_notes": "",
-        "examples": [
-            {
-                "italian": "è meglio concentrarsi sui verbi più comuni",
-                "english": "it's better to focus on the most common verbs"
-            }
-        ]
-    },
-    {
-        "name": "adattarsi",
-        "meaning": "to adapt oneself",
-        "conjugation_notes": "",
-        "examples": [
-            {
-                "italian": "il software si adatta automaticamente alle diverse risoluzioni dello schermo",
-                "english": "the software automatically adapts to different screen resolutions"
-            }
-        ]
-    },
-    {
-        "name": "alzarsi",
-        "meaning": "to get up",
-        "conjugation_notes": "",
-        "examples": []
-    },
-    {
-        "name": "lavarsi",
-        "meaning": "to wash yourself",
-        "conjugation_notes": "",
-        "examples": []
-    },
-    {
-        "name": "prepararsi",
-        "meaning": "to get ready",
-        "conjugation_notes": "",
-        "examples": []
-    },
-    {
-        "name": "ribellarsi",
-        "meaning": "to revolt",
-        "conjugation_notes": "",
-        "examples": []
-    },
-    {
-        "name": "mettersi",
-        "meaning": "to put on clothes",
-        "conjugation_notes": "",
-        "examples": []
-    },
-    {
-        "name": "muoversi",
-        "meaning": "to move oneself",
-        "conjugation_notes": "",
-        "examples": []
-    },
-    {
-        "name": "unirsi",
-        "meaning": "to join",
-        "conjugation_notes": "",
-        "examples": [
-            {
-                "italian": "molti sviluppatori hanno deciso di unirsi alla community open source",
-                "english": "many developers have decided to join the open source community"
-            }
-        ]
-    },
-    {
-        "name": "vestirsi",
-        "meaning": "to get dressed",
-        "conjugation_notes": "",
-        "examples": []
-    },
-    {
-        "name": "divertirsi",
-        "meaning": "to have fun",
-        "conjugation_notes": "",
-        "examples": []
-    },
-    {
-        "name": "sentirsi",
-        "meaning": "to feel emotionally",
-        "conjugation_notes": "",
-        "examples": [
-            {
-                "italian": "mi sento stanco oggi",
-                "english": "I feel tired today"
-            }
-        ]
-    },
-    {
         "name": "stare",
         "meaning": "to stay",
         "conjugation_notes": "*, stai, *, *, *, stanno, *",
-        "examples": []
+        "examples": [
+            {
+                "italian": "sto aspettando il treno",
+                "english": "I am waiting for the train (gerundio presente)"
+            },
+            {
+                "italian": "stavi male ieri",
+                "english": "you were unwell yesterday (imperfetto)"
+            },
+            {
+                "italian": "stettero zitti per ore",
+                "english": "they stayed silent for hours (passato remoto)"
+            },
+            {
+                "italian": "starà qui domani",
+                "english": "he will be here tomorrow (futuro semplice)"
+            },
+            {
+                "italian": "siamo stati fortunati",
+                "english": "we were lucky (passato prossimo)"
+            },
+            {
+                "italian": "staresti meglio a casa",
+                "english": "you would be better at home (condizionale presente)"
+            },
+            {
+                "italian": "stai attento!",
+                "english": "be careful! (imperativo)"
+            },
+            {
+                "italian": "lei sta con noi",
+                "english": "she is with us (presente)"
+            }
+        ]
     },
     {
         "name": "fare",
         "meaning": "to do, to make",
         "conjugation_notes": "faccio, fai, *, facciamo, *, fanno, ho fatto",
-        "examples": []
+        "examples": [
+            {
+                "italian": "facemmo tutto con calma",
+                "english": "we did everything calmly (passato remoto)"
+            },
+            {
+                "italian": "sto facendo una torta al limone",
+                "english": "I am making a lemon cake (gerundio presente)"
+            },
+            {
+                "italian": "faremo il possibile per aiutarti",
+                "english": "we will do our best to help you (futuro semplice)"
+            },
+            {
+                "italian": "lei fa yoga ogni mattina",
+                "english": "she does yoga every morning (presente)"
+            },
+            {
+                "italian": "avete fatto bene a parlare",
+                "english": "you all did well to speak (passato prossimo)"
+            },
+            {
+                "italian": "se facesse freddo, resterei a casa",
+                "english": "if it were cold, I would stay home (condizionale presente)"
+            },
+            {
+                "italian": "facevi sempre rumore in classe",
+                "english": "you always made noise in class (imperfetto)"
+            },
+            {
+                "italian": "fai attenzione alla strada",
+                "english": "be careful with the road (imperativo)"
+            }
+        ]
     },
     {
         "name": "andare",
         "meaning": "to go",
         "conjugation_notes": "vado, vai, va, *, *, vanno, *",
-        "examples": []
+        "examples": [
+            {
+                "italian": "andammo al mare insieme",
+                "english": "we went to the sea together (passato remoto)"
+            },
+            {
+                "italian": "sto andando a casa ora",
+                "english": "I am going home now (gerundio presente)"
+            },
+            {
+                "italian": "lei andrebbe volentieri con te",
+                "english": "she would gladly go with you (condizionale presente)"
+            },
+            {
+                "italian": "andavi spesso in biblioteca",
+                "english": "you often went to the library (imperfetto)"
+            },
+            {
+                "italian": "voi andrete domani a Roma",
+                "english": "you all will go to Rome tomorrow"
+            },
+            {
+                "italian": "vada subito dal medico",
+                "english": "(Lei) go to the doctor immediately"
+            },
+            {
+                "italian": "sono andato via tardi",
+                "english": "I left late (passato prossimo)"
+            },
+            {
+                "italian": "lui va a scuola ogni giorno",
+                "english": "he goes to school every day"
+            }
+        ]
     },
     {
         "name": "dare",
         "meaning": "to give",
         "conjugation_notes": "*, dai, dà, *, *, danno, ho dato",
-        "examples": []
+        "examples": [
+            {
+                "italian": "diedi il libro a Maria",
+                "english": "I gave the book to Maria (passato remoto)"
+            },
+            {
+                "italian": "dando il massimo, otteniamo risultati",
+                "english": "by giving our best, we get results (gerundio presente)"
+            },
+            {
+                "italian": "noi daremo una mano domani",
+                "english": "we will give a hand tomorrow (futuro semplice)"
+            },
+            {
+                "italian": "davo spesso consigli ai miei amici",
+                "english": "I often gave advice to my friends (imperfetto)"
+            },
+            {
+                "italian": "tu daresti tutto per lei",
+                "english": "you would give everything for her (condizionale presente)"
+            },
+            {
+                "italian": "date subito il documento!",
+                "english": "(you guys) give the document immediately! (imperativo)"
+            },
+            {
+                "italian": "lei ha dato una risposta gentile",
+                "english": "she gave a kind reply (passato prossimo)"
+            },
+            {
+                "italian": "Lei dà sempre buoni esempi",
+                "english": "you (formal) always give good examples (presente)"
+            }
+        ]
     },
     {
         "name": "parlare",
@@ -160,7 +189,20 @@
         "name": "mostrare",
         "meaning": "to show",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "italian": "mostravo il libro a Marco",
+                "english": "I was showing the book to Marco"
+            },
+            {
+                "italian": "ha mostrato interesse per il progetto",
+                "english": "she showed interest in the project"
+            },
+            {
+                "italian": "mostreremo le foto domani",
+                "english": "we will show the photos tomorrow"
+            }
+        ]
     },
     {
         "name": "aspettare",
@@ -218,7 +260,36 @@
         "name": "girare",
         "meaning": "to turn, to spin",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "italian": "gira a destra al semaforo",
+                "english": "turn right at the traffic light"
+            },
+            {
+                "italian": "girava sempre intorno alla verità senza mai dirla",
+                "english": "he always circled around the truth without saying it"
+            },
+            {
+                "italian": "girò il mondo in cerca di fortuna",
+                "english": "he traveled the world in search of fortune"
+            },
+            {
+                "italian": "girerò il video appena arrivo a casa",
+                "english": "i’ll shoot the video as soon as I get home"
+            },
+            {
+                "italian": "ha girato il film in soli due mesi",
+                "english": "he shot the film in just two months"
+            },
+            {
+                "italian": "girerei volentieri con te per la città",
+                "english": "i would gladly walk around the city with you"
+            },
+            {
+                "italian": "gira subito quel foglio!",
+                "english": "turn that sheet over right now!"
+            }
+        ]
     },
     {
         "name": "saltare",
@@ -2180,6 +2251,12 @@
         "examples": []
     },
     {
+        "name": "unire",
+        "meaning": "to unite",
+        "conjugation_notes": "-isco, -isci, -isce, *, *, -iscono, *",
+        "examples": []
+    },
+    {
         "name": "riempire",
         "meaning": "to fill",
         "conjugation_notes": "-io, *, *, *, *, -iono, *",
@@ -2214,5 +2291,177 @@
         "meaning": "to take place, to happen",
         "conjugation_notes": "-go, avvieni, avviene, *, *, -gono, *",
         "examples": []
+    },
+    {
+        "name": "assicurarsi",
+        "meaning": "to make sure",
+        "conjugation_notes": "",
+        "examples": [
+            {
+                "italian": "ci assicureremo che tutto sia pronto",
+                "english": "we will make sure everything is ready (futuro semplice)"
+            },
+            {
+                "italian": "assicurati di chiudere la porta",
+                "english": "(informal) make sure you close the door (imperativo)"
+            },
+            {
+                "italian": "lei si stava assicurando di avere tempo",
+                "english": "she was making sure she had time (imperfetto)"
+            },
+            {
+                "italian": "mi sono assicurato che fosse chiuso",
+                "english": "I made sure it was locked (passato prossimo)"
+            },
+            {
+                "italian": "ci saremmo assicurati della sua presenza",
+                "english": "we would have made sure of his presence (condizionale presente)"
+            },
+            {
+                "italian": "loro si assicurarono che fosse vero",
+                "english": "they made sure it was true (passato remoto)"
+            },
+            {
+                "italian": "lei si sta assicurando del numero corretto",
+                "english": "she is making sure of the correct number (gerundio presente)"
+            },
+            {
+                "italian": "voi vi assicurate che funzioni tutto",
+                "english": "you all make sure everything works (presente)"
+            }
+        ]
+    },
+    {
+        "name": "concentrarsi",
+        "meaning": "to concentrate",
+        "conjugation_notes": "",
+        "examples": [
+            {
+                "italian": "è meglio concentrarsi sui verbi più comuni",
+                "english": "it's better to focus on the most common verbs"
+            }
+        ]
+    },
+    {
+        "name": "adattarsi",
+        "meaning": "to adapt oneself",
+        "conjugation_notes": "",
+        "examples": [
+            {
+                "italian": "il software si adatta automaticamente alle diverse risoluzioni dello schermo",
+                "english": "the software automatically adapts to different screen resolutions"
+            }
+        ]
+    },
+    {
+        "name": "alzarsi",
+        "meaning": "to get up",
+        "conjugation_notes": "",
+        "examples": [
+            {
+                "italian": "mi alzo presto ogni giorno",
+                "english": "I get up early every day"
+            },
+            {
+                "italian": "mi sono alzato tardi ieri",
+                "english": "I got up late yesterday"
+            },
+            {
+                "italian": "mi alzerei volentieri più tardi",
+                "english": "I would gladly get up later"
+            }
+        ]
+    },
+    {
+        "name": "lavarsi",
+        "meaning": "to wash yourself",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "prepararsi",
+        "meaning": "to get ready",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "ribellarsi",
+        "meaning": "to revolt",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "mettersi",
+        "meaning": "to put on clothes",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "muoversi",
+        "meaning": "to move oneself",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "unirsi",
+        "meaning": "to join",
+        "conjugation_notes": "",
+        "examples": [
+            {
+                "italian": "si unirono alla protesta senza esitazione",
+                "english": "they joined the protest without hesitation (remoto)"
+            },
+            {
+                "italian": "mi unisco al gruppo domani mattina",
+                "english": "I’ll join the group tomorrow morning (presente)"
+            },
+            {
+                "italian": "ti uniresti volentieri alla discussione",
+                "english": "you would gladly join the discussion (condizionale presente)"
+            },
+            {
+                "italian": "Lei si unirà al consiglio la prossima settimana",
+                "english": "you (formal) will join the board next week (futuro semplice)"
+            },
+            {
+                "italian": "si univa spesso a noi per cena",
+                "english": "she often joined us for dinner (imperfetto)"
+            },
+            {
+                "italian": "ci siamo uniti alla folla in piazza",
+                "english": "we joined the crowd in the square (prossimo)"
+            },
+            {
+                "italian": "unendosi al coro, lui migliorava il tono",
+                "english": "joining the choir, he improved his tone (gerundio presente)"
+            },
+            {
+                "italian": "unitevi a noi per il brindisi",
+                "english": "join us for the toast (imperativo)"
+            }
+        ]
+    },
+    {
+        "name": "vestirsi",
+        "meaning": "to get dressed",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "divertirsi",
+        "meaning": "to have fun",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "sentirsi",
+        "meaning": "to feel emotionally",
+        "conjugation_notes": "",
+        "examples": [
+            {
+                "italian": "mi sento stanco oggi",
+                "english": "I feel tired today"
+            }
+        ]
     }
 ]

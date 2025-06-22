@@ -159,13 +159,79 @@
         "name": "parlare",
         "meaning": "to speak",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "italian": "parla con il professore",
+                "english": "He talks with the professor (presente)"
+            },
+            {
+                "italian": "parlerai con i tuoi amici",
+                "english": "You will talk with your friends (futuro semplice)"
+            },
+            {
+                "italian": "abbiamo parlato di molti argomenti",
+                "english": "We talked about many topics (passato prossimo)"
+            },
+            {
+                "italian": "parlavate sempre al telefono",
+                "english": "you guys used to talk on the phone all the time (imperfetto)"
+            },
+            {
+                "italian": "parlerebbero con piacere",
+                "english": "They would gladly talk (condizionale presente)"
+            },
+            {
+                "italian": "Lei parlò con grande saggezza",
+                "english": "You (formal) spoke with great wisdom (passato remoto)"
+            },
+            {
+                "italian": "stai parlando troppo velocemente",
+                "english": "You're talking too fast (gerundio presente)"
+            },
+            {
+                "italian": "parla con chiarezza!",
+                "english": "Speak clearly! (imperativo)"
+            }
+        ]
     },
     {
         "name": "ascoltare",
         "meaning": "to listen",
         "conjugation_notes": "",
-        "examples": []
+        "examples": [
+            {
+                "italian": "ascolto la musica ogni mattina",
+                "english": "I listen to music every morning"
+            },
+            {
+                "italian": "ascoltava sempre i consigli della nonna",
+                "english": "she always listened to her grandmother’s advice (imperfetto)"
+            },
+            {
+                "italian": "ascoltarono attentamente il discorso",
+                "english": "they listened carefully to the speech (passato remoto)"
+            },
+            {
+                "italian": "ascolteremo il concerto stasera",
+                "english": "we will listen to the concert tonight"
+            },
+            {
+                "italian": "hai ascoltato la lezione con interesse",
+                "english": "you listened to the lesson with interest (passato prossimo)"
+            },
+            {
+                "italian": "ascoltereste la mia richiesta, per favore",
+                "english": "would you all listen to my request, please"
+            },
+            {
+                "italian": "Lei sta ascoltando la radio in cucina",
+                "english": "you (formal) are listening to the radio in the kitchen"
+            },
+            {
+                "italian": "ascolta bene quello che dico!",
+                "english": "listen carefully to what I’m saying!"
+            }
+        ]
     },
     {
         "name": "chiamare",

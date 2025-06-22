@@ -46,7 +46,7 @@ for (const _rawVerb of _rawVerbs) {
 		conjugationUrl: `https://conjugator.reverso.net/conjugation-italian-verb-${_rawVerb.name}.html`,
 		conjugationNotes: _rawVerb.conjugation_notes || '',
 		examples: _rawVerb.examples.map(m => ({ ...m, isOpen: false })) || [],
-		prompt: `8 examples of the Italian verb "${_rawVerb.name}", one of these tenses per example (presente, imperfetto, passato remoto, futuro semplice, passato prossimo, condizionale presente, gerundio presente, imperativo), one of these personal pronouns per example (io, tu, lui, lei, Lei, noi, voi, loro) with Italian and English in the form "<italian> ; <english>", don't number them, and start with lowercase if grammatically correct (e.g. leave "I" capitalized at beginning of an English sentence), 9 Italian words max, at begging of  the English phrase, note which past tense is used, e.g. with (passato remoto), (imperfetto), (passato prossimo), randomize the order of the tenses, e.g. sometimes start with passato remoto, sometimes with futuro semplice, etc.`
+		prompt: `8 examples of the Italian verb "${_rawVerb.name}", one of these tenses per example (presente, imperfetto, passato remoto, futuro semplice, passato prossimo, condizionale presente, gerundio presente, imperativo), one of these personal pronouns per example (io, tu, lui, lei, Lei, noi, voi, loro) with Italian and English in the form "<italian> ; <english>", don't number them, and start with lowercase if grammatically correct (e.g. leave "I" capitalized at beginning of an English sentence), 9 Italian words max, at begging of  the English phrase, note which past tense is used, e.g. with (passato remoto), (imperfetto), (passato prossimo), randomize the order of the tenses, e.g. sometimes start with passato remoto, sometimes with futuro semplice, etc. and don't include the Italian pronoun e.g. io, tu, lei, lui, noi, voi loro if it is not gramatically necessary`
 	};
 	_initialVerbs.push(initialVerb);
 }
@@ -58,6 +58,9 @@ export const PageFlashcards = () => {
 		verb.isOpen = !verb.isOpen;
 		if (!verb.isOpen) {
 			verb.timesTaken += 1;
+			verb.examples.forEach(example => {
+				example.isOpen = false;
+			})
 		}
 		setVerbs([...verbs]);
 	}
@@ -165,7 +168,7 @@ export const PageFlashcards = () => {
 												</div>
 											)}
 											<div className="section flex justify-between items-center !pt-3">
-												<button className="px-1 uppercase bg-red-900 text-sm text-white rounded hover:bg-red-800" onClick={() => handleToggleOpen(verb)}>test again later</button>
+												<button className="px-1 uppercase bg-orange-700 text-sm text-white rounded hover:bg-orange-800" onClick={() => handleToggleOpen(verb)}>test again later</button>
 												<button className="px-1 uppercase bg-green-900 text-sm text-white rounded hover:bg-green-800" onClick={() => handleToggleLearned(verb)}>learned</button>
 											</div>
 										</div>

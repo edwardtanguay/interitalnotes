@@ -5,8 +5,8 @@
         "conjugation_notes": "*, stai, *, *, *, stanno, *",
         "examples": [
             {
-                "italian": "sto aspettando il treno",
-                "english": "I am waiting for the train (gerundio presente)"
+                "italian": "sto ancora aspettando il treno",
+                "english": "I am still waiting for the train (gerundio presente)"
             },
             {
                 "italian": "stavi male ieri",
@@ -1062,6 +1062,54 @@
         "examples": []
     },
     {
+        "name": "aggiustare",
+        "meaning": "to fix, to adjust, to repair",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "sistemare",
+        "meaning": "to fix, to settle, to arrange",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "riparare",
+        "meaning": "to repair, to fix, to mend",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "sussurrare",
+        "meaning": "to whisper, to breathe",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "capitare",
+        "meaning": "to happen, to occur",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "fondare",
+        "meaning": "to found, to establish",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "allenare",
+        "meaning": "to train, to coach",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "rallentare",
+        "meaning": "to delay, to slow down",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
         "name": "lasciare",
         "meaning": "to leave, to let",
         "conjugation_notes": "*, /i, *, /iamo, *, *, *",
@@ -1211,15 +1259,9 @@
         "examples": []
     },
     {
-        "name": "accogliere",
-        "meaning": "to welcome",
-        "conjugation_notes": "accolgo, /i, *, /iamo, *, accolgono, accolto",
-        "examples": []
-    },
-    {
-        "name": "raccogliere",
-        "meaning": "to gather, to collect",
-        "conjugation_notes": "raccolgo, /i, *, /iamo, *, raccolgono, raccolto",
+        "name": "schiacciare",
+        "meaning": "to squash, to crush",
+        "conjugation_notes": "*, /i, *, /iamo, *, *, *",
         "examples": []
     },
     {
@@ -1313,18 +1355,6 @@
         "examples": []
     },
     {
-        "name": "spiegare",
-        "meaning": "to explain",
-        "conjugation_notes": "*, -hi, *, -hiamo, *, *, *",
-        "examples": []
-    },
-    {
-        "name": "pagare",
-        "meaning": "to pay",
-        "conjugation_notes": "*, -hi, *, -hiamo, *, *, *",
-        "examples": []
-    },
-    {
         "name": "collegare",
         "meaning": "to connect, to link",
         "conjugation_notes": "*, -hi, *, -hiamo, *, *, *",
@@ -1341,6 +1371,57 @@
         "meaning": "to wander, to roam",
         "conjugation_notes": "*, -hi, *, -hiamo, *, *, *",
         "examples": []
+    },
+    {
+        "name": "pagare",
+        "meaning": "to pay",
+        "conjugation_notes": "*, -hi, *, -hiamo, *, *, *",
+        "examples": []
+    },
+    {
+        "name": "spiegare",
+        "meaning": "to explain",
+        "conjugation_notes": "*, -hi, *, -hiamo, *, *, *",
+        "examples": []
+    },
+    {
+        "name": "sbrigare",
+        "meaning": "to hurry (si), to attend",
+        "conjugation_notes": "*, -hi, *, -hiamo, *, *, *",
+        "examples": [
+            {
+                "italian": "sbrighiamoci prima che chiuda il negozio",
+                "english": "let’s hurry before the store closes (imperativo)"
+            },
+            {
+                "italian": "sto sbrigando alcune pratiche urgenti",
+                "english": "I am handling some urgent paperwork (gerundio presente)"
+            },
+            {
+                "italian": "sbrigò tutto in un’ora",
+                "english": "he took care of everything in an hour (passato remoto)"
+            },
+            {
+                "italian": "sbrigherò questa faccenda domani",
+                "english": "I will take care of this matter tomorrow (futuro semplice)"
+            },
+            {
+                "italian": "ci siamo sbrigati troppo tardi",
+                "english": "we were too late (passato prossimo)"
+            },
+            {
+                "italian": "sbrigava sempre tutto con calma",
+                "english": "she always handled everything calmly (imperfetto)"
+            },
+            {
+                "italian": "vi sbrighereste se vi impegnaste",
+                "english": "you would hurry up if you made an effort (condizionale presente)"
+            },
+            {
+                "italian": "sbriga questa faccenda subito!",
+                "english": "take care of this matter right now! (imperativo)"
+            }
+        ]
     },
     {
         "name": "avere",
@@ -1531,8 +1612,14 @@
     },
     {
         "name": "ascendere",
-        "meaning": "to move up",
+        "meaning": "to ascend",
         "conjugation_notes": "*, *, *, *, *, *, ho asceso",
+        "examples": []
+    },
+    {
+        "name": "discendere",
+        "meaning": "to descend",
+        "conjugation_notes": "*, *, *, *, *, *, ho disceso",
         "examples": []
     },
     {
@@ -1842,6 +1929,36 @@
         ]
     },
     {
+        "name": "arrendere",
+        "meaning": "to give up, to surrender",
+        "conjugation_notes": "*, *, *, *, *, *, ho arreso",
+        "examples": []
+    },
+    {
+        "name": "accorgere",
+        "meaning": "to notice",
+        "conjugation_notes": "*, *, *, *, *, *, ho accorto",
+        "examples": []
+    },
+    {
+        "name": "smettere",
+        "meaning": "to stop, to quit",
+        "conjugation_notes": "*, *, *, *, *, *, ho smesso",
+        "examples": []
+    },
+    {
+        "name": "spengere",
+        "meaning": "to turn off, to shut down",
+        "conjugation_notes": "*, *, *, *, *, *, ho spento",
+        "examples": []
+    },
+    {
+        "name": "riavvolgere",
+        "meaning": "to rewind",
+        "conjugation_notes": "*, *, *, *, *, *, ho riavvolo",
+        "examples": []
+    },
+    {
         "name": "tenere",
         "meaning": "to take, to keep, to hold",
         "conjugation_notes": "-go, tieni, tiene, *, *, -gono, *",
@@ -2050,6 +2167,18 @@
         "name": "contrapporre",
         "meaning": "to contrast",
         "conjugation_notes": "(contrapon-) -go, *, *, *, *, -gono, -posto",
+        "examples": []
+    },
+    {
+        "name": "accogliere",
+        "meaning": "to welcome",
+        "conjugation_notes": "accolgo, /i, *, /iamo, *, accolgono, accolto",
+        "examples": []
+    },
+    {
+        "name": "raccogliere",
+        "meaning": "to gather, to collect",
+        "conjugation_notes": "raccolgo, /i, *, /iamo, *, raccolgono, raccolto",
         "examples": []
     },
     {
@@ -2277,7 +2406,7 @@
     },
     {
         "name": "colpire",
-        "meaning": "to affect, to hit, to strike, to impress",
+        "meaning": "to hit, to affect, to strike, to impress",
         "conjugation_notes": "-isco, -isci, -isce, *, *, -iscono, *",
         "examples": [
             {
@@ -2319,6 +2448,12 @@
     {
         "name": "unire",
         "meaning": "to unite",
+        "conjugation_notes": "-isco, -isci, -isce, *, *, -iscono, *",
+        "examples": []
+    },
+    {
+        "name": "suggerire",
+        "meaning": "to suggest",
         "conjugation_notes": "-isco, -isci, -isce, *, *, -iscono, *",
         "examples": []
     },
@@ -2453,6 +2588,12 @@
     {
         "name": "ribellarsi",
         "meaning": "to revolt",
+        "conjugation_notes": "",
+        "examples": []
+    },
+    {
+        "name": "aspettarsi",
+        "meaning": "to expect",
         "conjugation_notes": "",
         "examples": []
     },

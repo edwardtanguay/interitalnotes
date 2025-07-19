@@ -121,6 +121,7 @@ export const PageFlashcards = () => {
 											)}
 											{verb.kind === 'ere' && (
 												<div className="section">
+													<p className="italic opacity-50">(regular conjugation)</p>
 													<p>PRES: -o, -i, -e, -iamo, -ete, -ono</p>
 													<p>IMPE: -evo, -evi, -eva, -evamo, -evate, -evano</p>
 													<p>PAPR: ho/sono -uto</p>
@@ -132,6 +133,7 @@ export const PageFlashcards = () => {
 											)}
 											{verb.kind === 'ire' && (
 												<div className="section">
+													<p className="italic opacity-50">(regular conjugation)</p>
 													<p>PRES: -o, -i, -e, -iamo, -ite, -ono</p>
 													<p>IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano</p>
 													<p>PAPR: ho/sono -ito</p>
